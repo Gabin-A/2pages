@@ -75,14 +75,14 @@ if st.button('Search Nearby'):
             for amenity in selected_amenities: #for funtion iterates dictionnary established before
                 tag_type = amenity_config[amenity.capitalize()] #we assigned categories in the dictionnary before to certain tags, it assigns to proper openstreemap cat.
                 query = f"""
-                [out:json];
-                (
-                  node["{tag_type}"="{amenity}"](around:{radius},{lat},{lon});
-                  way["{tag_type}"="{amenity}"](around:{radius},{lat},{lon});
-                  relation["{tag_type}"="{amenity}"](around:{radius},{lat},{lon}); #building the query for overpass in json to then be used in openstreetmap
-                );
-                out center;
-                """
+[out:json];
+(
+  node["{tag_type}"="{amenity}"](around:{radius},{lat},{lon});
+  way["{tag_type}"="{amenity}"](around:{radius},{lat},{lon});
+  relation["{tag_type}"="{amenity}"](around:{radius},{lat},{lon});
+);
+out center;
+"""
                 response = requests.post("https://overpass-api.de/api/interpreter", data=query, timeout=30) #sends the query to overpas api, max 30 sec waiting time
                 data = response.json() #response in a dictionnary
                 elements = data.get('elements', []) #exctracts nodes ways and relations returned by overpass
