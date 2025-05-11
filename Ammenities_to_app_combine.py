@@ -74,7 +74,7 @@ if st.button('Search Nearby'):
         try:
             for amenity in selected_amenities: #for funtion iterates dictionnary established before
                 tag_type = amenity_config[amenity.capitalize()] #we assigned categories in the dictionnary before to certain tags, it assigns to proper openstreemap cat.
-                query = f""" #building the overpass query
+                query = f"""
                 [out:json];
                 (
                   node["{tag_type}"="{amenity}"](around:{radius},{lat},{lon});
