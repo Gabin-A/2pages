@@ -1,0 +1,456 @@
+number_of_rooms;square_meters;place_type;street;zip_city;char.1;char.2;char.3;rent;p/squarem/y
+4.5 rooms ; 115 m_ ; Apartment;Route De Marin 16b; 1000 Lausanne;Spacious covered terrace;Large basement room;Bike storage available;CHF 3,650.-;CHF 381 / m_ / year
+;40 m_ ; Furnished apartment;Chemin De Longeraie 4; 1006 Lausanne;Spacious balcony with views;Modern kitchen with island;Prime location near amenities;CHF 2,340.-;CHF 702 / m_ / year
+;70 m_ ; Furnished apartment;Chemin De Longeraie 4; 1006 Lausanne;Stunning lake views;Modern open-plan design;Private balcony retreat;CHF 2,790.-;CHF 478 / m_ / year
+;60 m_ ; Furnished apartment;Avenue De La Chablière 6; 1004 Lausanne;Spacious balcony with views;Modern kitchen with island;Bright living area with light;CHF 2,450.-;CHF 490 / m_ / year
+;60 m_ ; Apartment;Avenue de Sévery 2; 1004 Lausanne;Quiet central location;Balcony with great views;3 min to bus stop;CHF 2,450.-;CHF 490 / m_ / year
+;41 m_ ; Apartment;Rue Adrien-Pichard 11; 1003 Lausanne;Spacious 41 m_ area;Ideal for various uses;Secure and accessible location;CHF 450.-;CHF 132 / m_ / year
+;12 m_ ; Apartment;Chemin Des Trois-Rois 7; 1005 Lausanne;Ideal city center location;Secure and accessible storage;Perfect for personal items;CHF 150.-;CHF 150 / m_ / year
+1 room ; 50 m_ ; Apartment;Avenue De Montchoisi; 1006 Lausanne;Stunning city views;Modern kitchen amenities;Close to public transport;CHF 4,026.-;CHF 966 / m_ / year
+2 rooms ; 75 m_ ; Apartment;Rue Saint-François; 1003 Lausanne;Modern kitchen with balcony;Bright living area;Prime location near amenities;CHF 4,930.-;CHF 789 / m_ / year
+1 room ; 35 m_ ; Apartment;Avenue Du Léman; 1005 Lausanne;Stunning mountain views;Cozy fireplace ambiance;Spacious outdoor terrace;CHF 3,157.-;CHF 1,082 / m_ / year
+1 room ; 36 m_ ; Apartment;Avenue Du Léman; 1005 Lausanne;Stunning mountain views;Cozy fireplace ambiance;Spacious outdoor terrace;CHF 2,923.-;CHF 974 / m_ / year
+;25 m_ ; Apartment;Avenue De Chailly; 1012 Lausanne;Stunning mountain views;Cozy fireplace ambiance;Spacious outdoor terrace;CHF 2,446.-;CHF 1,174 / m_ / year
+;30 m_ ; Apartment;Avenue De Montchoisi; 1006 Lausanne;Stunning lake views;Modern kitchen amenities;Spacious balcony retreat;CHF 2,830.-;CHF 1,132 / m_ / year
+2.5 rooms ; 60 m_ ; Apartment;Route Du Pavement 121; 1018 Lausanne;Spacious 100 m_ terrace;Large underground parking;Quiet, high-end living;CHF 2,290.-;CHF 458 / m_ / year
+4.5 rooms ; 114 m_ ; Apartment;Rue Des Terreaux 4; 1003 Lausanne;Exposed beam ceilings;Spacious open kitchen;Prime city center location;CHF 3,740.-;CHF 394 / m_ / year
+1 room ; 31 m_ ; Apartment;Avenue D'echallens 102; 1004 Lausanne;Bright living space;Equipped kitchen;Balcony with view;CHF 1,295.-;CHF 501 / m_ / year
+;20 m_ ; Apartment;Avenue Du Léman; 1005 Lausanne;Stunning lake views;Modern kitchen amenities;Spacious balcony retreat;CHF 2,284.-;CHF 1,370 / m_ / year
+3 rooms ; 85 m_ ; Apartment;Chemin De Renens 52; 1004 Lausanne;High ceilings (2.90m);Custom-made quality furniture;Indoor parking included;CHF 3,350.-;CHF 473 / m_ / year
+3 rooms ; 63 m_ ; Apartment;Avenue Frédéric-Recordon 6; 1004 Lausanne;Close to Valency Park;Balcony with great views;Quiet neighborhood charm;CHF 1,840.-;CHF 350 / m_ / year
+;30 m_ ; Apartment;Avenue De Montchoisi; 1006 Lausanne;Stunning mountain views;Cozy fireplace ambiance;Spacious outdoor terrace;CHF 2,830.-;CHF 1,132 / m_ / year
+2 rooms ;; Furnished apartment;Avenue D'ouchy 58; 1006 Lausanne;Stunning lake views;Modern open-plan design;Private balcony retreat;CHF 2,800.-;—
+;25 m_ ; Apartment;Avenue De Chailly; 1012 Lausanne;Stunning mountain views;Cozy fireplace ambiance;Spacious outdoor terrace;CHF 2,700.-;CHF 1,296 / m_ / year
+3 rooms ; 66 m_ ; Apartment;Chemin Du Bois-Gentil 146; 1018 Lausanne;Available immediately;Bathroom with bathtub;Bright rooms;CHF 1,300.-;CHF 236 / m_ / year
+2 rooms ; 42 m_ ; Apartment;;1004 Lausanne;Great location, near city center;Open kitchen, living area;Balcony, cellar included;CHF 1,630.-;CHF 466 / m_ / year
+4.5 rooms ; 128 m_ ; Apartment;Chemin De La Prairie 5; 1007 Lausanne;Spacious bright living room;Modern equipped kitchen;Sunny balcony;CHF 3,103.-;CHF 292 / m_ / year
+2.5 rooms ; 63 m_ ; Apartment;Chemin De Boston 25; 1004 Lausanne;Spacious and bright;Open plan kitchen;Large balcony;CHF 2,070.-;CHF 394 / m_ / year
+2 rooms ;; Apartment;Avenue De Morges 70; 1004 Lausanne;Separate kitchen;Central location;Public transport;CHF 1,890.-;—
+3 rooms ; 73 m_ ; Apartment;Chemin Des Sauges 8; 1018 Lausanne;Near new stadium;Balcony and cellar included;Optional garage;CHF 1,620.-;CHF 266 / m_ / year
+3 rooms ;; Apartment;Route De Berne 10; 1010 Lausanne;Fitted kitchen;Balcony from living room;Bathroom;CHF 1,790.-;—
+3 rooms ; 76 m_ ; Apartment;Avenue Frédéric-César-De-La-Harpe 14; 1007 Lausanne;Near Lausanne station;Spacious 75m_ apartment;Freshly painted;CHF 2,550.-;CHF 403 / m_ / year
+5 rooms ; 124 m_ ; Apartment;Avenue De Valmont 20; 1010 Lausanne;Spacious entrance hall with fitted wardrobes;Bright living room with balcony access;Equipped kitchen/dining room with access to balcony;CHF 2,540.-;CHF 246 / m_ / year
+3.5 rooms ; 90 m_ ; Apartment;Route De La Feuillère 21; 1010 Lausanne;Modern apartment with large terrace;Near highway & public transport;Includes parking (CHF 200/month);CHF 3,123.-;CHF 416 / m_ / year
+2 rooms ; 51 m_ ; Apartment;Avenue Des Bergières 28; 1004 Lausanne;New apartment with separate entrance;High-quality materials used;Central location, close to shops and public transport;CHF 1,950.-;CHF 459 / m_ / year
+2 rooms ; 40 m_ ; Apartment;Avenue Des Bergières 28; 1004 Lausanne;Bergières center;Private garden;Parking space;CHF 1,750.-;CHF 525 / m_ / year
+3.5 rooms ; 98 m_ ; Apartment;Rue De La Grotte 7; 1003 Lausanne;Lake view balcony;Quiet central location;Fully fitted kitchen;CHF 4,322.-;CHF 529 / m_ / year
+2 rooms ; 55 m_ ; Apartment;Rue Couchirard 14; 1004 Lausanne;Bright and functional rooms;Fully equipped kitchen;Central location in Lausanne;CHF 1,800.-;CHF 393 / m_ / year
+2 rooms ;; Apartment;Avenue de Sévery 6; 1004 Lausanne;Quiet neighborhood;Renovated floors;Near Coop;CHF 1,190.-;—
+3.5 rooms ; 75 m_ ; Apartment;Rue Du Maupas 11; 1004 Lausanne;Spacious living room;Sunny balcony;Bright bedrooms;CHF 2,140.-;CHF 342 / m_ / year
+28 m_ ;; Apartment;Rue Des Crêtes 25; 1018 Lausanne;Central location;Newly renovated;Fully furnished;CHF 1,690.-;CHF 724 / m_ / year
+3.5 rooms ; 60 m_ ; Apartment;Chemin De La Lisière 19; 1018 Lausanne;Spacious living room;Separate kitchen;Balcony available;CHF 1,474.-;CHF 295 / m_ / year
+3.5 rooms ; 68 m_ ; Apartment;Rue De Strasbourg 4; 1004 Lausanne;Great location in Lausanne;Pets allowed;Fiber optic internet;CHF 2,250.-;CHF 397 / m_ / year
+2.5 rooms ; 60 m_ ; Apartment;Avenue Du Grey 80; 1018 Lausanne;Bright and spacious;Private balcony;Parking included;CHF 1,590.-;CHF 318 / m_ / year
+1.5 rooms ; 43 m_ ; Apartment;Boulevard De Grancy 58; 1006 Lausanne;Ideally located near the station;Balcony and built-in wardrobes;Renovated kitchen and bathrooms;CHF 1,830.-;CHF 511 / m_ / year
+2.5 rooms ; 53 m_ ; Apartment;Chemin De Maillefer 14; 1018 Lausanne;Spacious living room;Private garden;Quiet neighborhood;CHF 1,770.-;CHF 401 / m_ / year
+3 rooms ; 72 m_ ; Apartment;Rue Couchirard 15; 1004 Lausanne;Cozy balcony for relaxation;Independent gas heating system;Renovation in progress;CHF 1,800.-;CHF 300 / m_ / year
+3.5 rooms ;; Apartment;Rue Centrale 23; 1003 Lausanne;Spacious and comfortable;Prime location;Modern amenities;CHF 2,070.-;—
+4.5 rooms ; 76 m_ ; Apartment;Route De Berne 1; 1010 Lausanne;Stunning lake view;Lively neighborhood near shops;Bright apartment;CHF 2,635.-;CHF 416 / m_ / year
+2.5 rooms ; 44 m_ ; Apartment;Route De Berne 1; 1010 Lausanne;Balcony;Lively neighborhood;Equipped kitchen;CHF 1,980.-;CHF 540 / m_ / year
+2 rooms ; 43 m_ ; Apartment;Avenue Frédéric-César-De-La-Harpe 20; 1007 Lausanne;Renovated apartment;Spacious balcony;Near the station;CHF 1,900.-;CHF 530 / m_ / year
+3.5 rooms ; 97 m_ ; Apartment;;1005 Lausanne;Spacious private balcony;Stylish high ceilings;Fully equipped kitchen;CHF 2,950.-;CHF 365 / m_ / year
+3 rooms ;; Apartment;Chemin Du Bois-De-La-Fontaine 6; 1007 Lausanne;Elevator access;Balcony with view;Close to shopping;CHF 1,930.-;—
+3 rooms ; 81 m_ ; Apartment;Avenue Louis-Ruchonnet 37; 1003 Lausanne;Beautiful view;Fitted kitchen;Balcony;CHF 2,440.-;CHF 361 / m_ / year
+2.5 rooms ; 75 m_ ; Apartment;Rue Dr. César-Roux 4; 1005 Lausanne;Bright living room with balcony;Modern equipped kitchen;Close to all amenities;CHF 1,983.-;CHF 317 / m_ / year
+4 rooms ; 84 m_ ; Apartment;Rue de l'Industrie 11; 1005 Lausanne;Historic city center;Open kitchen;Charming apartment;CHF 2,056.-;CHF 294 / m_ / year
+2.5 rooms ; 62 m_ ; Apartment;Chemin De Bérée 12; 1010 Lausanne;Fully equipped kitchen;Spacious living room;Close to public transport;CHF 1,940.-;CHF 375 / m_ / year
+3.5 rooms ; 61 m_ ; Apartment;Avenue Victor-Ruffy 46; 1012 Lausanne;Open kitchen to living area;Balcony for outdoor relaxation;Close to shops and schools;CHF 2,320.-;CHF 456 / m_ / year
+2.5 rooms ; 50 m_ ; Apartment;Avenue Des Bergières 28; 1004 Lausanne;Near Palais de Beaulieu;High-quality finishes;Private balcony;CHF 1,930.-;CHF 463 / m_ / year
+3 rooms ; 76 m_ ; Apartment;Avenue Du Léman 21; 1005 Lausanne;1 min to bus station;40m_ living/kitchen;9m_ balcony;CHF 2,650.-;CHF 418 / m_ / year
+2.5 rooms ; 47 m_ ; Apartment;Chemin Du Boisy 35; 1004 Lausanne;Cozy balcony for relaxation;Cave for extra storage;Parking space available;CHF 1,490.-;CHF 380 / m_ / year
+3 rooms ; 68 m_ ; Apartment;Rue Saint-François 12; 1003 Lausanne;Bright and quiet space;Unique beams and charm;Central location near amenities;CHF 2,650.-;CHF 468 / m_ / year
+2 rooms ; 59 m_ ; Apartment;Rue Saint-Roch 29; 1004 Lausanne;Renovated kitchen;Balcony with lake view;Elevator access;CHF 1,490.-;CHF 303 / m_ / year
+4 rooms ; 91 m_ ; Apartment;Avenue Henri-Druey 13; 1018 Lausanne;Bright living room with balcony;Charming kitchen with amenities;Elevator access to 3rd floor;CHF 3,350.-;CHF 442 / m_ / year
+3.5 rooms ; 70 m_ ; Apartment;Avenue Victor-Ruffy 14; 1012 Lausanne;Close to CHUV;Balcony for relaxation;Nearby shops & schools;CHF 2,100.-;CHF 360 / m_ / year
+1.5 rooms ; 38 m_ ; Apartment;;1006 Lausanne;Sought-after area;Charming balcony;Laundry and cellar;CHF 1,650.-;CHF 521 / m_ / year
+1 room ;; Studio;Chemin Isabelle-De-Montolieu 187; 1010 Lausanne;Studio near amenities;Separate equipped kitchen;Indoor/outdoor parking;CHF 890.-;—
+3.5 rooms ; 88 m_ ; Apartment;Chemin De Haute-Brise 19; 1012 Lausanne;New apartment with terrace and garden;Quiet residential area;High-quality finishes;CHF 2,850.-;CHF 389 / m_ / year
+3 rooms ; 58 m_ ; Apartment;Rue de l'Industrie 9; 1005 Lausanne;Historic neighborhood charm;Preferential rent for 3 years;Cultural attractions nearby;CHF 1,452.-;CHF 300 / m_ / year
+1.5 rooms ; 47 m_ ; Apartment;Rue Des Terreaux 12; 1003 Lausanne;Charming parquet flooring;High ceilings throughout;Central location near metro;CHF 1,670.-;CHF 426 / m_ / year
+2.5 rooms ; 62 m_ ; Duplex;;1005 Lausanne;Bright and spacious living room;Modern open kitchen;Ideal location near amenities;CHF 2,490.-;CHF 482 / m_ / year
+2.5 rooms ; 69 m_ ; Apartment;Rue Edith-Burger 4; 1018 Lausanne;Open kitchen with balcony;New building with elevator;Quick bus access to city;CHF 2,265.-;CHF 394 / m_ / year
+4.5 rooms ; 95 m_ ; Apartment;Rue De La Borde 3c; 1018 Lausanne;Bright living room with balcony;Close to public transport;Spacious bedrooms with parquet;CHF 2,500.-;CHF 316 / m_ / year
+2 rooms ; 57 m_ ; Apartment;Avenue Frédéric-César-De-La-Harpe 23; 1007 Lausanne;Quiet neighborhood;Close to shops;Shared laundry facilities;CHF 1,731.-;CHF 364 / m_ / year
+2 rooms ; 61 m_ ; Apartment;Avenue Frédéric-César-De-La-Harpe 17; 1007 Lausanne;Bright living room;Two sunny balconies;Close to the lake;CHF 2,220.-;CHF 437 / m_ / year
+2.5 rooms ; 61 m_ ; Apartment;Avenue Frédéric-César-De-La-Harpe 17; 1007 Lausanne;Bright living room;North-East balcony;Close to the lake;CHF 2,270.-;CHF 447 / m_ / year
+1.5 rooms ; 42 m_ ; Apartment;Chemin De Boston 18; 1004 Lausanne;Quiet green surroundings;Close to public transport;Private garden space;CHF 1,610.-;CHF 460 / m_ / year
+2.5 rooms ; 60 m_ ; Apartment;Chemin Aimé-Steinlen 15; 1004 Lausanne;Spacious terrace access;Private garden oasis;Modern open kitchen;CHF 1,950.-;CHF 390 / m_ / year
+2.5 rooms ; 67 m_ ; Apartment;Chemin De Barberine 3; 1004 Lausanne;Cultural hub nearby;Balcony with views;Sport facilities close by;CHF 1,840.-;CHF 330 / m_ / year
+1 room ; 41 m_ ; Studio;Rue Cité-Derrière 12; 1005 Lausanne;Historic neighborhood charm;Spacious living area;Modern open kitchen;CHF 1,340.-;CHF 392 / m_ / year
+3.5 rooms ; 84 m_ ; Apartment;Avenue Jomini 5; 1004 Lausanne;Modern open kitchen;Balcony for relaxation;Included indoor parking;CHF 2,350.-;CHF 336 / m_ / year
+5.5 rooms ; 120 m_ ; Apartment;Avenue De Béthusy 36; 1005 Lausanne;Total renovation;High ceilings, parquet floors;"Near metro M2 ""Ours""";CHF 3,100.-;CHF 310 / m_ / year
+2 rooms ; 49 m_ ; Apartment;Avenue De Morges 163; 1004 Lausanne;Close to city center;Cozy balcony space;Modern fitted kitchen;CHF 1,430.-;CHF 350 / m_ / year
+3 rooms ; 63 m_ ; Apartment;Chemin De Renens 11; 1004 Lausanne;Complete renovation ongoing;Functional room layout;Optimal natural light;CHF 1,940.-;CHF 370 / m_ / year
+1.5 rooms ; 38 m_ ; Apartment;;1012 Lausanne;Bright living room;Large sunny balcony;Access to communal pool;CHF 1,500.-;CHF 474 / m_ / year
+3.5 rooms ; 80 m_ ; Penthouse;;1007 Lausanne;Bright living room;Renovated open kitchen;Lake view and tranquility;CHF 2,350.-;CHF 353 / m_ / year
+3.5 rooms ; 120 m_ ; Apartment;;1006 Lausanne;Spacious terrace access;Modern open kitchen;Master bedroom with dressing;CHF 4,300.-;CHF 430 / m_ / year
+2.5 rooms ; 67 m_ ; Apartment;Chemin De La Grangette 51; 1010 Lausanne;Spacious and bright living room;Modern fully equipped kitchen;Charming terrace for relaxation;CHF 2,202.-;CHF 394 / m_ / year
+3.5 rooms ; 77 m_ ; Apartment;Chemin De Pierrefleur 88; 1004 Lausanne;Spacious green surroundings;Bright open living area;Convenient transport access;CHF 2,090.-;CHF 326 / m_ / year
+4.5 rooms ; 101 m_ ; Apartment;Chemin De La Vuachère 20; 1012 Lausanne;Equipped kitchen with dishwasher;Balcony with sunny views;Elevator access to all floors;CHF 2,565.-;CHF 305 / m_ / year
+3.5 rooms ; 90 m_ ; Apartment;Rue Du Lac 12; 1007 Lausanne;South-facing living space;Open-plan kitchen design;Close to public transport;CHF 3,087.-;CHF 412 / m_ / year
+47 m_ ;; Apartment;Route D'oron 15; 1010 Lausanne;Sunny terrace;Open kitchen;Bathroom;CHF 1,400.-;CHF 357 / m_ / year
+5.5 rooms ; 157 m_ ; Apartment;Avenue Des Figuiers 41; 1007 Lausanne;Spacious 157 m_ layout;Modern flooring throughout;Terrace and loggia included;CHF 3,950.-;CHF 302 / m_ / year
+2 rooms ; 44 m_ ; Apartment;Route De Berne 1; 1010 Lausanne;Close to public transport;Modern equipped kitchen;Vibrant neighborhood shops;CHF 1,830.-;CHF 499 / m_ / year
+2.5 rooms ; 59 m_ ; Apartment;;1012 Lausanne;180° panoramic views;Spacious 6m_ balcony;Modern kitchen with Dekton;CHF 2,600.-;CHF 529 / m_ / year
+3.5 rooms ; 73 m_ ; Apartment;Chemin de la Gravière 4; 1007 Lausanne;Open-plan kitchen;Cozy balcony space;Nearby cinema & fitness;CHF 2,020.-;CHF 332 / m_ / year
+7.5 rooms ; 171 m_ ; Duplex;Avenue De Valmont 12; 1010 Lausanne;Close to public transport;Spacious balconies;Nearby cultural amenities;CHF 3,440.-;CHF 241 / m_ / year
+2.5 rooms ; 56 m_ ; Apartment;Avenue Victor-Ruffy 75; 1012 Lausanne;Bright living spaces;Open-plan kitchen;Convenient laundry access;CHF 1,970.-;CHF 422 / m_ / year
+4.5 rooms ; 89 m_ ; Apartment;Chemin De Barberine 3; 1004 Lausanne;Cultural hub nearby;Balcony with great views;Fully equipped kitchen;CHF 2,450.-;CHF 330 / m_ / year
+5.5 rooms ; 119 m_ ; Apartment;Avenue De Sévelin 13; 1004 Lausanne;Architect-designed building;Minergie certified quality;Close to public transport;CHF 3,406.-;CHF 343 / m_ / year
+3 rooms ; 83 m_ ; Apartment;Chemin Du Salève 11; 1004 Lausanne;Open kitchen with living room;Balcony with beautiful views;Quiet green surroundings;CHF 2,045.-;CHF 296 / m_ / year
+3.5 rooms ; 105 m_ ; Apartment;Chemin Du Salève 13; 1004 Lausanne;Spacious living with balcony;Fully equipped modern kitchen;Quiet green surroundings;CHF 2,380.-;CHF 272 / m_ / year
+3 rooms ; 94 m_ ; Apartment;Avenue De France 59; 1004 Lausanne;Dining kitchen with balcony;Parquet living room;5 min to shops & transport;CHF 2,105.-;CHF 269 / m_ / year
+3.5 rooms ; 97 m_ ; Apartment;Rue Du Rôtillon 2; 1003 Lausanne;Prime location in Lausanne;Fully equipped new kitchen;New bathroom and shower;CHF 2,930.-;CHF 362 / m_ / year
+3 rooms ; 71 m_ ; Apartment;Avenue De France 61; 1004 Lausanne;Dining kitchen with balcony;Two bedrooms with parquet;10 min walk to city center;CHF 1,700.-;CHF 287 / m_ / year
+6 rooms ; 150 m_ ; Stepped apartment;Rue Etraz 14; 1003 Lausanne;Stunning lake and Alps view;Modern open kitchen design;Spacious terrace for relaxation;CHF 6,250.-;CHF 500 / m_ / year
+3.5 rooms ; 75 m_ ; Apartment;Chemin Guillaume-De-Pierrefleur 11; 1004 Lausanne;Renovated apartment;Charming neighborhood;Balcony & cellar;CHF 2,460.-;CHF 394 / m_ / year
+3.5 rooms ; 89 m_ ; Apartment;Rue Edith-Burger 6; 1018 Lausanne;Open kitchen with balcony;Bike storage available;Quick bus access to city;CHF 2,540.-;CHF 342 / m_ / year
+2.5 rooms ; 55 m_ ; Apartment;Avenue De Morges 119a; 1004 Lausanne;New building in city center;Includes indoor parking;Open kitchen with balcony access;CHF 2,143.-;CHF 468 / m_ / year
+4.5 rooms ;; Apartment;Chemin Des Fauconnières 12; 1012 Lausanne;Fully equipped kitchen;Private bathroom with laundry;Quiet neighborhood with amenities;CHF 3,000.-;—
+2.5 rooms ; 63 m_ ; Apartment;Avenue De Sévelin 13; 1004 Lausanne;Spacious balcony for relaxation;Close to vibrant amenities;Minergie certified building;CHF 2,310.-;CHF 440 / m_ / year
+2.5 rooms ; 75 m_ ; Apartment;;1003 Lausanne;Recently renovated;Close to amenities;Cozy Parisian balcony;CHF 2,040.-;CHF 326 / m_ / year
+2.5 rooms ; 84 m_ ; Apartment;Rue Mauborget 10; 1003 Lausanne;Freshly renovated interior;Bright living room with parquet;Open kitchen with modern design;CHF 2,650.-;CHF 379 / m_ / year
+4.5 rooms ; 81 m_ ; Apartment;Chemin Du Martinet 22; 1007 Lausanne;Modern equipped kitchen;Central location in city;Stylish renovated interiors;CHF 2,490.-;CHF 369 / m_ / year
+1.5 rooms ; 28 m_ ; Studio;Chemin De Bochardon 5; 1012 Lausanne;Private 13 m_ terrace;High-end kitchen appliances;Quiet neighborhood location;CHF 1,350.-;CHF 579 / m_ / year
+4.5 rooms ; 76 m_ ; Apartment;Route De Berne 1; 1010 Lausanne;Near public transport & shops;Spacious balcony;Shared laundry room;CHF 2,570.-;CHF 406 / m_ / year
+4.5 rooms ; 98 m_ ; Duplex;Rue Du Petit-Saint-Jean 5; 1003 Lausanne;Spacious terrace access;Modern open kitchen;Close to public transport;CHF 3,355.-;CHF 411 / m_ / year
+4.5 rooms ; 80 m_ ; Apartment;Chemin Du Martinet 28; 1007 Lausanne;Modern kitchen included;Stylish bathroom design;Balcony with stunning views;CHF 2,090.-;CHF 314 / m_ / year
+2.5 rooms ; 55 m_ ; Apartment;;1018 Lausanne;Stunning rooftop views;Private covered parking;Eco-friendly neighborhood;CHF 2,625.-;CHF 573 / m_ / year
+4.5 rooms ; 127 m_ ; Apartment;Avenue De Chailly 64; 1012 Lausanne;Authentic neighborhood charm;Peaceful gardens nearby;Open kitchen and balcony;CHF 4,102.-;CHF 388 / m_ / year
+1.5 rooms ; 33 m_ ; Apartment;Chemin De Champ-Rond 61; 1010 Lausanne;Spacious living area;Private terrace & garden;Quiet neighborhood location;CHF 1,500.-;CHF 545 / m_ / year
+2 rooms ; 50 m_ ; Apartment;Avenue Victor-Ruffy 22; 1012 Lausanne;Equipped kitchen;Charming Gottettaz park;Epicurean neighborhood;CHF 1,585.-;CHF 380 / m_ / year
+5.5 rooms ; 124 m_ ; Apartment;Avenue Des Bains 8; 1007 Lausanne;Panoramic lake and mountain view;Terrace and sunroom;High-end kitchen;CHF 5,800.-;CHF 561 / m_ / year
+3.5 rooms ; 84 m_ ; Apartment;;1007 Lausanne;Contemporary furnished design;Spacious south-facing balcony;Indoor parking with EV option;CHF 3,440.-;CHF 491 / m_ / year
+2.5 rooms ; 51 m_ ; Apartment;Avenue De Gratta-Paille 16; 1018 Lausanne;Bright open kitchen;Terrace access from living;Elevator and parking option;CHF 1,650.-;CHF 388 / m_ / year
+2 rooms ; 49 m_ ; Apartment;Avenue De Beaulieu 18; 1004 Lausanne;Prime location near transport;Spacious living area;Convenient balcony access;CHF 1,723.-;CHF 422 / m_ / year
+1 room ; 25 m_ ; Apartment;Avenue De Valmont 14; 1010 Lausanne;Direct highway access;Balcony with views;Close to public transport;CHF 1,040.-;CHF 499 / m_ / year
+3.5 rooms ; 70 m_ ; Apartment;Chemin Du Martinet 28; 1007 Lausanne;Renovated with balcony;Stunning modern kitchen;Beautiful views from living room;CHF 1,890.-;CHF 324 / m_ / year
+2.5 rooms ; 61 m_ ; Apartment;Chemin Du Martinet 28; 1007 Lausanne;Renovated with balcony;Stunning modern kitchen;Beautiful views from living room;CHF 1,690.-;CHF 332 / m_ / year
+2.5 rooms ; 58 m_ ; Apartment;Avenue De Sévelin 13; 1004 Lausanne;Close to city center;Balcony with great views;Indoor parking available;CHF 1,750.-;CHF 362 / m_ / year
+4.5 rooms ;; Apartment;Route De Berne 115; 1010 Lausanne;Comfortable furnished flat;Fully equipped kitchens;Private laundry facilities;CHF 3,440.-;—
+3.5 rooms ; 85 m_ ; Apartment;Avenue Du Tribunal-Fédéral 25; 1005 Lausanne;Bright living room with views;Modern equipped kitchen;Quiet central location;CHF 3,130.-;CHF 442 / m_ / year
+3.5 rooms ; 75 m_ ; Apartment;Avenue De Sévelin 13; 1004 Lausanne;Stylish Minergie building;Close to public transport;Indoor parking available;CHF 2,210.-;CHF 354 / m_ / year
+1 room ; 19 m_ ; Studio;Rue Mercerie 16; 1003 Lausanne;Ideal city center location;Well-equipped kitchen;Close to public transport;CHF 1,003.-;CHF 633 / m_ / year
+4.5 rooms ; 110 m_ ; Apartment;;1004 Lausanne;Spacious 34m_ terrace;Private laundry in unit;Quality finishes throughout;CHF 3,370.-;CHF 368 / m_ / year
+1.5 rooms ; 60 m_ ; Loft;Avenue De La Sallaz 58; 1010 Lausanne;Bright loggia space;Open fully equipped kitchen;Close to public transport;CHF 1,930.-;CHF 386 / m_ / year
+1 room ; 20 m_ ; Apartment;Chemin Des Rosiers 3; 1004 Lausanne;Cultural hub nearby;Modern kitchen included;Cozy balcony space;CHF 1,160.-;CHF 696 / m_ / year
+1.5 rooms ; 47 m_ ; Apartment;Rue Des Terreaux 12; 1003 Lausanne;Historic building charm;Elegant parquet flooring;High ceilings throughout;CHF 1,620.-;CHF 414 / m_ / year
+3 rooms ; 89 m_ ; Apartment;Rue Adrien-Pichard 2; 1003 Lausanne;Open-plan kitchen;Bright living area;Historic building charm;CHF 2,490.-;CHF 336 / m_ / year
+4.5 rooms ; 103 m_ ; Apartment;Avenue De La Vallombreuse 52; 1004 Lausanne;Spacious 7m_ balcony;Fully equipped kitchen;Perfect condition, freshly painted;CHF 2,950.-;CHF 344 / m_ / year
+3.5 rooms ; 80 m_ ; Apartment;;1000 Lausanne;Bright and spacious layout;Modern shower room;Balcony with great views;CHF 2,655.-;CHF 398 / m_ / year
+3.5 rooms ; 84 m_ ; Apartment;;1018 Lausanne;Open kitchen with balcony;Laundry column in bathroom;Quick bus access to city;CHF 2,590.-;CHF 370 / m_ / year
+3 rooms ; 68 m_ ; Apartment;Route De Berne 1; 1010 Lausanne;Renovated apartment;Near CHUV & public transport;Balcony & communal laundry;CHF 2,323.-;CHF 410 / m_ / year
+;25 m_ ; Apartment;Rue Du Simplon 12; 1006 Lausanne;Close to public transport;Modern fitted kitchen;Bright living area;CHF 1,470.-;CHF 706 / m_ / year
+3.5 rooms ; 76 m_ ; Apartment;;1004 Lausanne;Recently renovated;Includes balcony;Private parking option;CHF 3,063.-;CHF 484 / m_ / year
+1.5 rooms ; 63 m_ ; Apartment;Rue Des Terreaux 8; 1003 Lausanne;Fully renovated space;Bright living area;Free cellar included;CHF 2,478.-;CHF 472 / m_ / year
+2.5 rooms ; 69 m_ ; Apartment;Rue Des Terreaux 4; 1003 Lausanne;Spacious entrance hall;Bright living room;Close to metro station;CHF 2,250.-;CHF 391 / m_ / year
+1 room ; 25 m_ ; Studio;Chemin De Montmeillan 19; 1005 Lausanne;Green neighborhood access;Balcony with city views;Equipped modern kitchen;CHF 1,080.-;CHF 518 / m_ / year
+3.5 rooms ; 78 m_ ; Apartment;Rue Des Terreaux 15; 1003 Lausanne;Lausanne city center;Public transport nearby;Equipped kitchen;CHF 2,270.-;CHF 349 / m_ / year
+2 rooms ;; Furnished apartment;;1004 Lausanne;Fully furnished;Central location;Stunning view;CHF 1,000.-;—
+1 room ; 20 m_ ; Studio;Rue De La Louve 2; 1003 Lausanne;Near public transport & shops;Kitchen and bathroom;Male clients only;CHF 850.-;CHF 510 / m_ / year
+2.5 rooms ; 60 m_ ; Apartment;Route Du Pavement 121; 1018 Lausanne;Large terrace and garden;Underground parking and cellar;Quiet location, high-end finishes;CHF 2,290.-;CHF 458 / m_ / year
+3.5 rooms ; 73 m_ ; Apartment;Chemin Du Devin 63; 1012 Lausanne;Quiet and green area;Open kitchen & living room;Parking options available;CHF 1,960.-;CHF 322 / m_ / year
+4.5 rooms ; 128 m_ ; Apartment;Chemin De La Prairie 5; 1007 Lausanne;Bright living room with open view;Modern fully equipped kitchen;Sunny balcony;CHF 3,103.-;CHF 292 / m_ / year
+;31 m_ ; Apartment;Avenue D'echallens 102; 1004 Lausanne;Quiet area, near the park;Bright and spacious studio;Equipped kitchen, dishwasher;CHF 1,295.-;CHF 501 / m_ / year
+3 rooms ; 85 m_ ; Apartment;Chemin De Renens 52; 1004 Lausanne;High-quality, custom furniture;Quiet, bright apartment;Near public transport & highway;CHF 3,350.-;CHF 473 / m_ / year
+;89 m_ ; Apartment;Rue De La Tour 15; 1003 Lausanne;Spacious and quiet;Loft with equipped kitchen;Laundry included;CHF 2,128.-;CHF 287 / m_ / year
+2.5 rooms ; 75 m_ ; Apartment;Rue Dr. César-Roux 4; 1005 Lausanne;Bright rooms;Modern kitchen;Central location;CHF 1,983.-;CHF 317 / m_ / year
+3 rooms ; 66 m_ ; Apartment;Chemin Du Bois-Gentil 146; 1018 Lausanne;Immediate availability;Cozy living room space;Versatile office/bedroom;CHF 1,460.-;CHF 265 / m_ / year
+3.5 rooms ;; Apartment;Chemin Des Lys 6; 1010 Lausanne;Bright and airy;Top floor location;Fully equipped kitchen;CHF 2,475.-;—
+2 rooms ; 43 m_ ; Apartment;Chemin Du Reposoir 2; 1007 Lausanne;Modern kitchen design;Bright living space;Renovation in progress;CHF 1,500.-;CHF 419 / m_ / year
+2 rooms ; 51 m_ ; Apartment;Chemin De Montelly 17; 1007 Lausanne;Balcony;Fitted kitchen;Great location;CHF 1,490.-;CHF 351 / m_ / year
+2 rooms ;; Apartment;Chemin Des Sauges 3; 1018 Lausanne;Equipped kitchen;Large living room;Bathroom (under renovation);CHF 1,490.-;—
+4 rooms ; 99 m_ ; Apartment;Avenue De Tivoli 56; 1007 Lausanne;Complete renovation;Equipped kitchen;Tivoli location;CHF 2,640.-;CHF 320 / m_ / year
+2 rooms ; 44 m_ ; Apartment;Avenue D'echallens 36; 1004 Lausanne;Quiet location away from road;2 min walk to public transport;Nearby shops and amenities;CHF 1,520.-;CHF 415 / m_ / year
+2.5 rooms ; 60 m_ ; Apartment;Chemin De Renens 20; 1004 Lausanne;Quiet green neighborhood;Close to public transport;Spacious living area;CHF 1,770.-;CHF 354 / m_ / year
+3.5 rooms ; 75 m_ ; Apartment;Avenue De Sévelin 13; 1004 Lausanne;Dynamic urban neighborhood;Open-plan kitchen design;Minergie certified building;CHF 2,382.-;CHF 381 / m_ / year
+4.5 rooms ; 93 m_ ; Apartment;Avenue De France 98; 1004 Lausanne;Spacious 22m2 balcony;Modern open kitchen;Secure underground parking;CHF 3,110.-;CHF 401 / m_ / year
+3 rooms ;; Apartment;Chemin de la Fauvette 2; 1012 Lausanne;Spacious ground-floor terrace;Bright living room access;Close to amenities & parks;CHF 2,160.-;—
+1.5 rooms ; 23 m_ ; Furnished apartment;Avenue Du Mont-D'or; 1007 Lausanne;Close to public transport;Balcony with great views;Fully equipped kitchen;CHF 1,640.-;CHF 856 / m_ / year
+3.5 rooms ; 70 m_ ; Apartment;Chemin Du Levant; 1005 Lausanne;Private garden with lake view;Quiet residential area;Balcony off the living room;On request;—
+2.5 rooms ; 44 m_ ; Apartment;Avenue Victor-Ruffy 36; 1012 Lausanne;Bright living room;Equipped separate kitchen;Balcony with view;CHF 1,560.-;CHF 425 / m_ / year
+3.5 rooms ; 111 m_ ; Apartment;Rue De La Grotte 5; 1003 Lausanne;Bright and spacious living room;Semi-open, fully equipped kitchen;Balcony with city views;CHF 3,604.-;CHF 390 / m_ / year
+2.5 rooms ; 55 m_ ; Apartment;Chemin Du Reposoir 20; 1007 Lausanne;Spacious garden oasis;Renovated with vintage charm;Large kitchen for dining;CHF 2,400.-;CHF 524 / m_ / year
+3.5 rooms ; 82 m_ ; Apartment;Rue Couchirard 5; 1004 Lausanne;Modern coworking spaces;Spacious terrace for relaxation;Vibrant urban neighborhood;CHF 2,060.-;CHF 301 / m_ / year
+2.5 rooms ; 48 m_ ; Apartment;Rue Du Maupas 42c; 1004 Lausanne;Close to city center;Well-connected transport;Cozy balcony retreat;CHF 1,520.-;CHF 380 / m_ / year
+1 room ;; Apartment;Chemin De La Vuachère 2; 1005 Lausanne;Peaceful park setting;Workspaces with internet;Shared kitchen & terrace;CHF 1,500.-;—
+2 rooms ; 42 m_ ; Apartment;Chemin Du Devin 4; 1012 Lausanne;Renovated in a quiet area;1 min to bus stop;Equipped kitchen with fridge;CHF 1,510.-;CHF 431 / m_ / year
+4 rooms ; 84 m_ ; Apartment;Chemin De Renens 22; 1004 Lausanne;Quiet green neighborhood;Fully equipped kitchen;Convenient storage space;CHF 2,020.-;CHF 289 / m_ / year
+1 room ; 20 m_ ; Apartment;Chemin Des Diablerets 2; 1012 Lausanne;Close to public transport;Equipped open kitchen;Private garden space;CHF 1,515.-;CHF 909 / m_ / year
+2 rooms ; 72 m_ ; Apartment;Rue Caroline 15a; 1003 Lausanne;Stunning cathedral views;Modern open kitchen;Private 30 m_ garden;CHF 3,000.-;CHF 500 / m_ / year
+2.5 rooms ; 72 m_ ; Apartment;Avenue Virgile-Rossel 10; 1012 Lausanne;Close to CHUV hospital;Spacious living room;Private garage available;CHF 2,250.-;CHF 375 / m_ / year
+3.5 rooms ; 81 m_ ; Apartment;Chemin Du Levant 22; 1005 Lausanne;Central, quiet location;Private garden terrace;Newly painted interior;CHF 2,300.-;CHF 341 / m_ / year
+5.5 rooms ; 220 m_ ; Apartment;;1000 Lausanne;Private lake access;Spacious 80 m_ terrace;Indoor pool and sauna;CHF 14,750.-;CHF 805 / m_ / year
+4.5 rooms ; 77 m_ ; Apartment;Avenue Victor-Ruffy 36; 1012 Lausanne;Spacious living room;Equipped kitchen;Available May 2025;CHF 2,540.-;CHF 396 / m_ / year
+;37 m_ ; Apartment;Boulevard De Grancy 37; 1006 Lausanne;2 min walk to train station;Elevator access to top floor;Balcony with city views;On request;—
+3 rooms ; 72 m_ ; Apartment;Rue Belle-Fontaine 6; 1003 Lausanne;Sunny balcony retreat;Modern kitchen design;Close to public transport;CHF 1,830.-;CHF 305 / m_ / year
+5 rooms ; 135 m_ ; Apartment;Rue Cité-Derrière 8; 1005 Lausanne;Spacious entry hall;Bright living/dining area;Large balcony with views;CHF 3,095.-;CHF 275 / m_ / year
+2.5 rooms ;; Apartment;;1006 Lausanne;Stunning lake views;Open kitchen design;Close to public transport;CHF 2,800.-;—
+2 rooms ; 53 m_ ; Apartment;Chemin De Bonne-Espérance 24; 1006 Lausanne;Quiet, green neighborhood;Balcony;Cellar;CHF 1,650.-;CHF 374 / m_ / year
+3 rooms ; 63 m_ ; Apartment;Chemin De La Fauvette 4b; 1012 Lausanne;Close to Gottettaz Park;Near shops and transport;Balcony with great views;CHF 1,700.-;CHF 324 / m_ / year
+2.5 rooms ; 79 m_ ; Apartment;Rue Du Flon 12; 1003 Lausanne;Modern Minergie building;Balcony with city views;Close to public transport;CHF 2,565.-;CHF 390 / m_ / year
+2 rooms ; 58 m_ ; Apartment;Chemin Des Faverges 16; 1006 Lausanne;Quiet neighborhood;City bus at doorstep;Balcony and cellar;CHF 1,635.-;CHF 338 / m_ / year
+2 rooms ; 46 m_ ; Apartment;Avenue De Beaumont; 1012 Lausanne;Quiet area, near CHUV;Easy access to public transport;Balcony and cellar included;CHF 1,499.-;CHF 391 / m_ / year
+2.5 rooms ;; Apartment;Chemin Du Devin 8; 1012 Lausanne;Fully renovated in 2022;Quiet neighborhood ambiance;Equipped kitchen with dishwasher;CHF 2,050.-;—
+2.5 rooms ; 56 m_ ; Apartment;Chemin Des Croix-Rouges 8; 1007 Lausanne;Elevator access;Cozy balcony space;Modern fitted kitchen;CHF 1,800.-;CHF 386 / m_ / year
+4.5 rooms ; 151 m_ ; Apartment;Avenue Collonges 21; 1004 Lausanne;Spacious 150m2 layout;Direct elevator access;Stunning park view terrace;CHF 4,980.-;CHF 396 / m_ / year
+3.5 rooms ; 81 m_ ; Apartment;Chemin Des Aubépines 15; 1004 Lausanne;Stunning Alpine views;Newly renovated kitchen;Elegant classic building;CHF 2,900.-;CHF 430 / m_ / year
+2.5 rooms ; 70 m_ ; Apartment;Avenue De L'église-Anglaise 6; 1006 Lausanne;Bright living room;Fully equipped kitchen;Quiet green area;CHF 2,700.-;CHF 463 / m_ / year
+3.5 rooms ; 95 m_ ; Apartment;Route Aloys-Fauquez 4; 1018 Lausanne;Bright attic living space;Fully equipped kitchen;Pets allowed in the apartment;CHF 2,410.-;CHF 304 / m_ / year
+4.5 rooms ; 190 m_ ; Apartment;Avenue De Béthusy 74; 1012 Lausanne;Access to sauna & pool;Modern Minergie building;Balcony with lake view;CHF 5,300.-;CHF 335 / m_ / year
+5 rooms ;; Apartment;;1003 Lausanne;Bright with large windows;Elegant period parquet;Modern equipped kitchen;CHF 4,230.-;—
+3 rooms ; 78 m_ ; Apartment;;1005 Lausanne;Bright living spaces;Convenient laundry access;Upcoming renovations planned;CHF 1,990.-;CHF 306 / m_ / year
+3.5 rooms ; 86 m_ ; Apartment;;1004 Lausanne;Spacious living area;Modern fitted kitchen;Private indoor parking;CHF 2,658.-;CHF 371 / m_ / year
+3 rooms ; 76 m_ ; Apartment;Chemin De Champ-Rond 15; 1010 Lausanne;Renovated in 2017;Balcony with green view;Close to metro and shops;CHF 2,220.-;CHF 351 / m_ / year
+3 rooms ; 80 m_ ; Apartment;Route Du Jorat 190; 1000 Lausanne;Ideal for seniors;Community space available;Close to public transport;CHF 2,125.-;CHF 319 / m_ / year
+1 room ;; Furnished apartment;Rue De L'académie 2; 1005 Lausanne;Historic building charm;Fully furnished comfort;Close to public transport;CHF 1,130.-;—
+4.5 rooms ; 114 m_ ; Apartment;Rue Des Terreaux 4; 1003 Lausanne;114m2 with exposed beams;Central, near Lausanne-Flon;Open kitchen, 3 bedrooms;CHF 3,740.-;CHF 394 / m_ / year
+2 rooms ; 50 m_ ; Apartment;Rue Du Maupas 24; 1004 Lausanne;City center, near amenities;Small balcony & parquet floors;Private cellar & laundry;CHF 1,432.-;CHF 344 / m_ / year
+2.5 rooms ;; Apartment;Chemin de la Vulliette 36; 1000 Lausanne;Quiet location, near EHL;Sunny balcony, Alps view;Versatile mezzanine area;CHF 1,390.-;—
+2.5 rooms ; 55 m_ ; Apartment;Avenue Frédéric Recordon 2b; 1004 Lausanne;Modern kitchen & bathroom;Two large balconies;Minergie standard;CHF 1,910.-;CHF 417 / m_ / year
+2.5 rooms ; 65 m_ ; Apartment;Avenue Frédéric-César-De-La-Harpe 20a; 1007 Lausanne;Partial lake view;Quiet location;Parking available;CHF 1,820.-;CHF 336 / m_ / year
+2.5 rooms ; 55 m_ ; Apartment;Rue De Genève 75; 1004 Lausanne;Geneva Avenue Quarter;Balcony from 2 rooms;Equipped kitchen;CHF 1,500.-;CHF 327 / m_ / year
+2.5 rooms ; 61 m_ ; Apartment;;1005 Lausanne;Peaceful green neighborhood;Balcony with a view;Private parking space;CHF 1,320.-;CHF 260 / m_ / year
+3 rooms ; 55 m_ ; Apartment;Avenue Des Oiseaux 9; 1018 Lausanne;Top floor apartment;Built-in wardrobes;Fitted kitchen;CHF 1,680.-;CHF 367 / m_ / year
+1 room ; 28 m_ ; Apartment;Rue Du Clos-De-Bulle 5; 1004 Lausanne;Fitted kitchen;Near public transport;Cellar;CHF 1,080.-;CHF 463 / m_ / year
+3.5 rooms ; 76 m_ ; Apartment;Rue Du Maupas 16; 1004 Lausanne;Elevator access;Equipped kitchen;Spacious living area;CHF 161.-;CHF 25 / m_ / year
+2.5 rooms ; 56 m_ ; Apartment;Avenue De Valmont 7; 1010 Lausanne;Unfurnished kitchen with fridge;Bathroom included;Fixed-term lease until 31.12.2024;CHF 1,350.-;CHF 289 / m_ / year
+2 rooms ; 38 m_ ; Apartment;Avenue De Valmont 7; 1010 Lausanne;Balcony;Equipped kitchen;Until 31.12.2024;CHF 1,495.-;CHF 472 / m_ / year
+4 rooms ; 115 m_ ; Apartment;Place Du Tunnel 13; 1005 Lausanne;Fitted kitchen;Separate bath and WC;Lausanne city center;CHF 2,580.-;CHF 269 / m_ / year
+2 rooms ; 62 m_ ; Apartment;Avenue Collonges 25; 1004 Lausanne;Equipped kitchen included;Cozy balcony for relaxation;Storage cellar available;CHF 1,548.-;CHF 300 / m_ / year
+3.5 rooms ;; Apartment;Chemin Du Chalet De Praroman 4d; 1000 Lausanne;Countryside and mountain view;Open kitchen to living room;Indoor parking space;CHF 2,290.-;—
+2 rooms ; 42 m_ ; Apartment;Avenue De Tivoli 19; 1007 Lausanne;Public transport access;Underground and outdoor parking;City center;CHF 1,205.-;CHF 344 / m_ / year
+3.5 rooms ; 63 m_ ; Apartment;Avenue De Cour 17; 1007 Lausanne;Exceptional lake view;Close to shops and transport;Veranda and cellar included;CHF 2,250.-;CHF 429 / m_ / year
+1 room ; 30 m_ ; Apartment;Chemin Du Furet 4; 1018 Lausanne;Equipped kitchen;Private bathroom;Built-in wardrobes;CHF 985.-;CHF 394 / m_ / year
+2.5 rooms ; 55 m_ ; Apartment;Avenue Frédéric-Recordon 3; 1004 Lausanne;Tree-lined terrace;Freshly painted;Ground floor apartment;CHF 1,450.-;CHF 316 / m_ / year
+6 rooms ; 150 m_ ; Apartment;Rue De L'aurore 2; 1005 Lausanne;Modern comfort, period charm;Sought-after residential area;Outdoor parking included;CHF 2,680.-;CHF 214 / m_ / year
+1 room ; 9 m_ ; Apartment;Chemin De Montolivet 19; 1006 Lausanne;Furnished single room;Shared kitchen & living room;Shared laundry;CHF 520.-;CHF 693 / m_ / year
+4 rooms ; 119 m_ ; Apartment;Chemin Du Treyblanc 2; 1006 Lausanne;Lake view;Charming old building;Modern comfort;CHF 3,470.-;CHF 350 / m_ / year
+2 rooms ; 60 m_ ; Apartment;Chemin Des Bossons; 1018 Lausanne;Bright and spacious;Near amenities;Group visit on May 7th;CHF 1,540.-;CHF 308 / m_ / year
+2 rooms ; 42 m_ ; Apartment;;1004 Lausanne;Near Lausanne city center;Open kitchen;Balcony (corridor);CHF 1,450.-;CHF 414 / m_ / year
+2.5 rooms ; 44 m_ ; Apartment;Rue Du Maupas; 1004 Lausanne;Lausanne city center;Mountain view balcony;Equipped kitchen;CHF 1,430.-;CHF 390 / m_ / year
+1 room ; 35 m_ ; Apartment;;1018 Lausanne;Ideal for short stays;Close to public transport;Parking in blue zone;CHF 55.-;CHF 19 / m_ / year
+3.5 rooms ; 66 m_ ; Apartment;Chemin Du Parc-De-Valency 3; 1004 Lausanne;Charming apartment in Lausanne;Near Valency Park;Balcony & cellar;CHF 1,785.-;CHF 325 / m_ / year
+1.5 rooms ; 28 m_ ; Apartment;;1004 Lausanne;Bright and furnished space;Central location in Lausanne;Includes bathtub and kitchen;CHF 830.-;CHF 356 / m_ / year
+3.5 rooms ; 80 m_ ; Apartment;Avenue de la Chablière 20; 1004 Lausanne;Spacious sunny balcony;Equipped kitchen included;10 min walk to downtown;CHF 2,100.-;CHF 315 / m_ / year
+1.5 rooms ; 38 m_ ; Apartment;Avenue De Sévelin 15; 1004 Lausanne;Mezzanine level;Fully equipped kitchen;Smart home features;CHF 1,560.-;CHF 493 / m_ / year
+2.5 rooms ; 79 m_ ; Apartment;Avenue Du Léman; 1005 Lausanne;Lausanne city center;Optional underground parking;Nearby amenities;CHF 2,090.-;CHF 317 / m_ / year
+4.5 rooms ;; Apartment;;1007 Lausanne;Lausanne city center;Near station and lake;Charming neighborhood;CHF 2,600.-;—
+4.5 rooms ; 60 m_ ; Apartment;;1003 Lausanne;Sunny and quiet;Balcony;Parking possible;On request;—
+1 room ;; Apartment;;1004 Lausanne;Furnished apartment;Equipped kitchen;Parking included;CHF 1,200.-;—
+2.5 rooms ; 62 m_ ; Apartment;Avenue Du Léman; 1005 Lausanne;Lake and Alps view;Newly renovated;Central location;CHF 2,490.-;CHF 482 / m_ / year
+2.5 rooms ; 60 m_ ; Apartment;;1006 Lausanne;Excellent condition;Balcony with a view;Close to amenities;CHF 2,000.-;CHF 400 / m_ / year
+3 rooms ; 57 m_ ; Apartment;Avenue De La Gare; 1003 Lausanne;Lake and vineyards view;Eco-friendly building;Near train station;CHF 1,700.-;CHF 358 / m_ / year
+1 room ; 24 m_ ; Apartment;Avenue De La Gare; 1003 Lausanne;Lake view & eco-habitat;Near Grandvaux train station;Shared spaces & community;CHF 835.-;CHF 418 / m_ / year
+2.5 rooms ; 52 m_ ; Apartment;Avenue de Sévery 5; 1004 Lausanne;Near Valency Park;Partially furnished kitchen;Balcony and built-in wardrobes;CHF 1,705.-;CHF 393 / m_ / year
+3.5 rooms ; 75 m_ ; Apartment;;1012 Lausanne;Close to amenities;Garage included;Convenient location;CHF 1,650.-;CHF 264 / m_ / year
+3.5 rooms ; 72 m_ ; Apartment;Rue Belle-Fontaine 6; 1003 Lausanne;Available immediately;Viewing possible;Central location;CHF 1,700.-;CHF 283 / m_ / year
+2.5 rooms ; 54 m_ ; Apartment;Chemin Du Cap 1; 1006 Lausanne;Open kitchen to living room;Modern bathroom;Full-length balcony;CHF 1,750.-;CHF 389 / m_ / year
+2 rooms ; 53 m_ ; Apartment;Rue De La Tour; 1004 Lausanne;Very bright;Equipped kitchen;Public transport nearby;CHF 1,120.-;CHF 254 / m_ / year
+3.5 rooms ;; Apartment;Rue De La Borde; 1018 Lausanne;Quiet courtyard location;Equipped kitchen & balcony;Large rooms & cellar;CHF 2,165.-;—
+1.5 rooms ; 43 m_ ; Apartment;Rue Mathurin-Cordier 7; 1005 Lausanne;Quiet city center;Balcony;Cellar available;CHF 1,020.-;CHF 285 / m_ / year
+1.5 rooms ; 45 m_ ; Apartment;Chemin De Mornex; 1003 Lausanne;Lausanne city center;Very bright;Private laundry;CHF 1,543.-;CHF 411 / m_ / year
+4 rooms ; 104 m_ ; Apartment;Chemin De Mornex 13; 1003 Lausanne;Large renovated apartment;Fully equipped kitchen;Veranda;CHF 3,095.-;CHF 357 / m_ / year
+3.5 rooms ; 71 m_ ; Apartment;;1006 Lausanne;Prestigious, century-old building;Open-plan kitchen, fully equipped;Near park and public transport;CHF 2,740.-;CHF 463 / m_ / year
+4.5 rooms ; 90 m_ ; Apartment;;1006 Lausanne;Beautiful new apartment;Near station and amenities;Large park nearby;CHF 3,230.-;CHF 431 / m_ / year
+3.5 rooms ; 72 m_ ; Apartment;Avenue Victor-Ruffy 48; 1012 Lausanne;Recently renovated;Balcony and cellar;Near CHUV and public transport;CHF 2,120.-;CHF 353 / m_ / year
+3.5 rooms ; 72 m_ ; Apartment;Avenue Antoine-Michel-Servan; 1006 Lausanne;Minergie construction;Large windows;Space for washer/dryer;CHF 2,815.-;CHF 469 / m_ / year
+3.5 rooms ; 85 m_ ; Apartment;Rue Beau-Séjour 8A; 1003 Lausanne;Stunning lake and mountain view;Modern fitted kitchen;Indoor parking available;CHF 4,060.-;CHF 573 / m_ / year
+1 room ; 24 m_ ; Apartment;Place Du Vallon 18; 1005 Lausanne;Close to public transport;Fully furnished studio;Ideal for students;CHF 880.-;CHF 440 / m_ / year
+3.5 rooms ; 69 m_ ; Apartment;Avenue De France 20; 1004 Lausanne;Modern renovated kitchen;Two spacious bedrooms;Quiet and pleasant area;CHF 2,300.-;CHF 400 / m_ / year
+2 rooms ; 50 m_ ; Apartment;Chemin De Renens 58; 1004 Lausanne;Near Malley station;bright rooms;secure building;CHF 1,425.-;CHF 342 / m_ / year
+4 rooms ; 103 m_ ; Apartment;Chemin Des Mésanges 6; 1012 Lausanne;Large terrace and private garden (200 m2);Bright open kitchen;Indoor parking available;CHF 3,600.-;CHF 419 / m_ / year
+1.5 rooms ; 35 m_ ; Apartment;Rue Saint-Roch 5; 1004 Lausanne;Equipped kitchen;Small balcony;Parking available;CHF 990.-;CHF 339 / m_ / year
+4.5 rooms ; 120 m_ ; Apartment;Route De Berne 111; 1010 Lausanne;Private garden retreat;Close to public transport;Secure building access;CHF 3,270.-;CHF 327 / m_ / year
+1 room ; 21 m_ ; Apartment;Avenue De Cour 63; 1007 Lausanne;Balcony;City center;Near the lake;CHF 1,320.-;CHF 754 / m_ / year
+1 room ; 17 m_ ; Apartment;Chemin De Montolivet 19; 1006 Lausanne;Furnished with sink;Shared kitchen and bath;Available August 2025;CHF 885.-;CHF 625 / m_ / year
+2.5 rooms ; 48 m_ ; Apartment;Rue Du Maupas 42c; 1004 Lausanne;Near city center;Public transport access;Balcony & cellar;CHF 1,520.-;CHF 380 / m_ / year
+2.5 rooms ; 79 m_ ; Duplex;Rue Du Flon 12; 1003 Lausanne;Minergie building, 2013;Near metro and parking;Balcony and cellar included;CHF 2,565.-;CHF 390 / m_ / year
+2 rooms ; 58 m_ ; Apartment;Chemin Des Faverges 16; 1006 Lausanne;Equipped kitchen;Balcony;Quiet area;CHF 1,635.-;CHF 338 / m_ / year
+3.5 rooms ; 95 m_ ; Apartment;Route Aloys-Fauquez 4; 1018 Lausanne;Equipped open kitchen;Near all amenities;Outdoor parking space;CHF 2,410.-;CHF 304 / m_ / year
+4.5 rooms ; 190 m_ ; Apartment;Avenue De Béthusy 74; 1012 Lausanne;Minergie-certified building;Pool, sauna & gym access;Lake view balcony;CHF 5,300.-;CHF 335 / m_ / year
+1 room ; 40 m_ ; Apartment;Avenue Victor-Ruffy 32; 1012 Lausanne;Near public transport & shops;Furnishable hallway;Equipped kitchen;CHF 1,250.-;CHF 375 / m_ / year
+1 room ; 27 m_ ; Apartment;Chemin Isabelle-De-Montolieu 161; 1010 Lausanne;Near CHUV and highway;Sunny balcony;Cellar included;CHF 950.-;CHF 422 / m_ / year
+4 rooms ; 100 m_ ; Furnished apartment;Boulevard De Grancy; 1006 Lausanne;Large private garden;City center, near station;Easy transport access;CHF 4,750.-;CHF 570 / m_ / year
+6.5 rooms ; 170 m_ ; Stepped apartment;Chemin De Villard 18; 1007 Lausanne;Heated private pool;Stunning lake view;Large private garden;CHF 4,450.-;CHF 314 / m_ / year
+3.5 rooms ; 76 m_ ; Apartment;Rue Chaucrau 10; 1003 Lausanne;Bright living area;Spacious mezzanine;Close to public transport;CHF 2,240.-;CHF 354 / m_ / year
+3.5 rooms ; 70 m_ ; Apartment;Chemin Du Presbytère 7; 1004 Lausanne;Lausanne city center;Modernly equipped;Balcony;CHF 2,500.-;CHF 429 / m_ / year
+3.5 rooms ;; Apartment;Rue De La Pontaise 47; 1018 Lausanne;High ceilings with moldings;Original parquet flooring;Close to amenities and bus;CHF 2,060.-;—
+5.5 rooms ; 148 m_ ; Apartment;Chemin De La Joliette 4; 1006 Lausanne;Spacious living/dining area;2 bathrooms, sep. WC;Large balcony;CHF 4,568.-;CHF 370 / m_ / year
+1 room ; 39 m_ ; Apartment;Rue De Genève 77; 1004 Lausanne;Renovated 5th floor unit;Equipped kitchen included;Protected rent for 3 years;CHF 1,072.-;CHF 330 / m_ / year
+4 rooms ; 103 m_ ; Apartment;Chemin Des Mésanges 6; 1012 Lausanne;Large terrace & private garden;Bright open-plan kitchen;Indoor parking space;CHF 3,350.-;CHF 390 / m_ / year
+1 room ; 26 m_ ; Apartment;Avenue De Valmont 7; 1010 Lausanne;Open kitchen;WC/Shower;Bright apartment;CHF 1,175.-;CHF 542 / m_ / year
+2.5 rooms ; 66 m_ ; Apartment;Place Du Nord 6; 1005 Lausanne;Spacious bedroom;Large living area;Complete cellar;CHF 1,550.-;CHF 282 / m_ / year
+1 room ; 40 m_ ; Apartment;Rue Saint-Pierre 1; 1003 Lausanne;40m2, historic charm;Central St-Pierre area;Equipped kitchen, washer;CHF 1,650.-;CHF 495 / m_ / year
+2 rooms ; 66 m_ ; Apartment;Avenue De Cour 46; 1007 Lausanne;South-facing balcony;Equipped eat-in kitchen;Excellent public transport;CHF 1,925.-;CHF 350 / m_ / year
+1 room ; 27 m_ ; Apartment;;1003 Lausanne;Lake view;Eco-friendly habitat;Shared spaces included;CHF 1,105.-;CHF 491 / m_ / year
+1 room ; 24 m_ ; Apartment;;1003 Lausanne;Stunning lake view;Sustainable eco-habitat;Near train station;CHF 1,015.-;CHF 508 / m_ / year
+3.5 rooms ;; Apartment;Chemin Isabelle-De-Montolieu 173; 1010 Lausanne;6th floor location;Balcony & cellar;Outdoor parking space;CHF 1,670.-;—
+2 rooms ; 77 m_ ; Apartment;Chemin Du Treyblanc 4; 1006 Lausanne;Charming entry with fireplace;Stunning mountain and lake views;Cozy kitchen with small balcony;CHF 2,450.-;CHF 382 / m_ / year
+3 rooms ; 91 m_ ; Apartment;Rue Des Fontenailles 10; 1007 Lausanne;Exceptional lakeside location;Equipped kitchen with dishwasher;Close to transport and shops;CHF 2,450.-;CHF 323 / m_ / year
+3.5 rooms ; 92 m_ ; Apartment;Avenue De Florimont 22a; 1006 Lausanne;Ideal location near shops;Stunning lake and Alps view;High-quality finishes;CHF 3,900.-;CHF 509 / m_ / year
+3 rooms ; 55 m_ ; Apartment;Avenue Des Oiseaux 9; 1018 Lausanne;Fitted kitchen;Bathroom/WC;Wardrobes;CHF 1,710.-;CHF 373 / m_ / year
+3.5 rooms ; 86 m_ ; Apartment;Avenue De France 18a; 1004 Lausanne;Lausanne City Centre;Fitted kitchen;Bathroom with tub;CHF 2,405.-;CHF 336 / m_ / year
+3.5 rooms ; 67 m_ ; Apartment;Avenue Jomini 18; 1004 Lausanne;Quiet location, city center;West-facing balcony;Fully equipped kitchen;CHF 2,000.-;CHF 358 / m_ / year
+3 rooms ; 79 m_ ; Apartment;;1006 Lausanne;Quiet location, near station;Beautiful hardwood floors;Functional kitchen & bath;CHF 1,590.-;CHF 242 / m_ / year
+2.5 rooms ;; Penthouse;Avenue Du Mont-D'or; 1007 Lausanne;Lake view from both sides;Ideal location near shops;Complete basement;CHF 1,950.-;—
+2.5 rooms ; 55 m_ ; Apartment;Avenue Du Temple 13b; 1012 Lausanne;Quiet location in Chailly;Balcony available;Parking in the residence;CHF 1,815.-;CHF 396 / m_ / year
+2.5 rooms ;; Apartment;Rue Du Maupas; 1004 Lausanne;Lausanne city center;Near Coop and Migros;Close to bus stop;CHF 1,446.-;—
+3.5 rooms ; 68 m_ ; Apartment;Rue De Strasbourg; 1004 Lausanne;Charming 68m_, ground floor;Fully equipped kitchen;Near park and public transport;CHF 1,900.-;CHF 335 / m_ / year
+2.5 rooms ; 65 m_ ; Apartment;Avenue De Morges 163; 1004 Lausanne;Modern equipped kitchen;Prime location near Coop;Private cellar;CHF 1,300.-;CHF 240 / m_ / year
+4.5 rooms ; 16 m_ ; Apartment;Avenue Édouard Dapples 50; 1006 Lausanne;Near station and lake;Prestigious neighborhood;Balcony;CHF 1,000.-;CHF 750 / m_ / year
+1 room ; 27 m_ ; Apartment;Chemin De Boston; 1004 Lausanne;City centre location;Fully furnished;Wi-Fi included;CHF 1,350.-;CHF 600 / m_ / year
+1 room ; 65 m_ ; Apartment;Avenue De Provence 29; 1007 Lausanne;Modern and cozy;Private loggia;Near public transport;CHF 2,050.-;CHF 378 / m_ / year
+1 room ; 66 m_ ; Apartment;Avenue De Tivoli 24; 1007 Lausanne;Spacious new attic apartment;Equipped kitchen;Bathroom and storage room;CHF 1,750.-;CHF 318 / m_ / year
+2.5 rooms ; 55 m_ ; Apartment;Passage Saint-François; 1003 Lausanne;Prime central location;Bright with large windows;Fully equipped kitchen;CHF 2,000.-;CHF 436 / m_ / year
+2 rooms ; 60 m_ ; Apartment;Route De Berne 111; 1010 Lausanne;Close to public transport;Equipped kitchen included;Near shops and amenities;CHF 1,740.-;CHF 348 / m_ / year
+5 rooms ; 118 m_ ; Apartment;Rue De L'aurore 2; 1005 Lausanne;Charming apartment in Lausanne;Original parquet floors;Near transport and shops;CHF 2,430.-;CHF 247 / m_ / year
+1 room ; 38 m_ ; Apartment;Avenue Du Grammont 18; 1007 Lausanne;Quiet area, near shops;Balcony & cellar;Open kitchen with window;CHF 990.-;CHF 313 / m_ / year
+3 rooms ; 75 m_ ; Apartment;Chemin De Boissonnet; 1010 Lausanne;Quiet location by the Flon river;Modern kitchen;Balcony;CHF 2,014.-;CHF 322 / m_ / year
+2.5 rooms ; 55 m_ ; Apartment;Avenue Frédéric Recordon 2; 1004 Lausanne;Spacious living area;Two large balconies;Modern kitchen;CHF 2,005.-;CHF 437 / m_ / year
+5.5 rooms ; 108 m_ ; Duplex;Chemin De Renens 2; 1004 Lausanne;Near public transport, shops & schools;Open kitchen & dining area;Spacious terrace;CHF 3,150.-;CHF 350 / m_ / year
+3.5 rooms ; 77 m_ ; Apartment;Avenue Des Boveresses 31b; 1010 Lausanne;Near forest and vita course;Kitchen with dishwasher;5 min to highway;CHF 1,869.-;CHF 291 / m_ / year
+3 rooms ; 83 m_ ; Apartment;Chemin Des Clochetons 6; 1004 Lausanne;Near the park and city center;Three spacious balconies;Kitchen with dishwasher;CHF 2,110.-;CHF 305 / m_ / year
+2 rooms ; 89 m_ ; Apartment;Chemin Du Cap 17; 1006 Lausanne;Private garden;Open kitchen;Near transport;CHF 2,300.-;CHF 310 / m_ / year
+2.5 rooms ; 75 m_ ; Apartment;Rue Dr. César-Roux 4; 1005 Lausanne;75m_ living space;Sunny balcony;Central, quiet location;CHF 1,983.-;CHF 317 / m_ / year
+2 rooms ; 55 m_ ; Apartment;Rue Dr. César-Roux 14; 1005 Lausanne;Near city center;Balcony;Equipped kitchen;CHF 1,225.-;CHF 267 / m_ / year
+2 rooms ; 44 m_ ; Apartment;Rue Du Maupas 65; 1004 Lausanne;Central and quiet location;Equipped kitchen;Group visit possible;CHF 1,442.-;CHF 393 / m_ / year
+3.5 rooms ; 82 m_ ; Apartment;;1004 Lausanne;Modern and bright;Large balcony;Green areas;CHF 2,237.-;CHF 327 / m_ / year
+5 rooms ; 140 m_ ; Apartment;;1004 Lausanne;Exceptional lake view;Bright and spacious rooms;Close to public transport;CHF 3,900.-;CHF 334 / m_ / year
+6.5 rooms ; 175 m_ ; Apartment;Chemin Du Devin 47b; 1012 Lausanne;200 sqm terrace with lake view;Exclusive pool for residents;Close to international school;CHF 6,200.-;CHF 425 / m_ / year
+2.5 rooms ;; Apartment;Avenue Du Temple 13b; 1012 Lausanne;Quiet residence with balcony;Fully equipped kitchen;Close to public transport;CHF 1,815.-;—
+4.5 rooms ; 100 m_ ; Apartment;Chemin De Beau-Rivage; 1006 Lausanne;Lake view;Large balcony;Quiet location;CHF 3,300.-;CHF 396 / m_ / year
+1 room ; 22 m_ ; Apartment;Rue De L'ale 7; 1003 Lausanne;Modern furnishings included;Bright and airy space;Convenient city location;CHF 1,250.-;CHF 682 / m_ / year
+3.5 rooms ; 63 m_ ; Apartment;Rue Saint-Martin 32; 1005 Lausanne;Bright rooms with parquet flooring;Balcony;Close to amenities;CHF 1,957.-;CHF 373 / m_ / year
+2.5 rooms ; 45 m_ ; Attic flat;Avenue De Morges 76; 1004 Lausanne;Sunny balcony with lake view;Bright apartment, 5th floor;Cellar and parking included;CHF 1,500.-;CHF 400 / m_ / year
+2 rooms ; 52 m_ ; Apartment;Avenue Du Tribunal-Fédéral 36; 1005 Lausanne;Quiet neighborhood;Near shops and city center;Bedroom with balcony;CHF 1,580.-;CHF 365 / m_ / year
+3.5 rooms ; 91 m_ ; Apartment;Avenue Alexandre-Vinet 27; 1004 Lausanne;Near Lausanne Cathedral;Ground floor apartment;Outdoor parking available;CHF 1,860.-;CHF 245 / m_ / year
+3.5 rooms ;; Apartment;;1004 Lausanne;Close to public transport;Balcony or terrace desired;Quiet and respectful tenant;CHF 1,800.-;—
+1.5 rooms ; 29 m_ ; Apartment;Rue Du Grand-Pré 8; 1007 Lausanne;Elevator access to 4th floor;Private balcony with lighting;Close to public transport;CHF 1,301.-;CHF 538 / m_ / year
+5.5 rooms ; 123 m_ ; Apartment;Avenue Juste-Olivier; 1006 Lausanne;4 Balconies with Lake View;Fully Renovated Interior;Private Parking Available;CHF 4,400.-;CHF 429 / m_ / year
+2 rooms ; 40 m_ ; Apartment;Boulevard de Grancy 46; 1006 Lausanne;Completely renovated in 2021;Modern kitchen with appliances;Convenient location near station;CHF 1,550.-;CHF 465 / m_ / year
+2 rooms ; 35 m_ ; Apartment;Place De La Palud; 1003 Lausanne;Bright living area;Equipped kitchen;Central location;CHF 1,190.-;CHF 408 / m_ / year
+2.5 rooms ; 52 m_ ; Apartment;Route De Chavannes 62; 1007 Lausanne;Bright loggia with view;Washer/dryer in apartment;Quiet location near highway;CHF 1,710.-;CHF 395 / m_ / year
+2.5 rooms ; 64 m_ ; Apartment;Avenue Des Boveresses 6; 1010 Lausanne;Bright living room with balcony;New triple-glazed windows;Private cellar storage;CHF 1,985.-;CHF 372 / m_ / year
+2.5 rooms ; 60 m_ ; Apartment;Avenue Du Denantou 25; 1006 Lausanne;Quiet neighborhood retreat;Balcony with lake views;Close to public transport;CHF 1,748.-;CHF 350 / m_ / year
+2.5 rooms ; 65 m_ ; Apartment;Chemin Du Devin 8; 1012 Lausanne;Modern open kitchen;Recently renovated;Quiet neighborhood;CHF 2,050.-;CHF 378 / m_ / year
+4.5 rooms ; 90 m_ ; Apartment;Avenue Frédéric-César-De-La-Harpe 45; 1007 Lausanne;Bright 3 cozy bedrooms;Fully equipped kitchen;Close to metro and lake;CHF 1,750.-;CHF 233 / m_ / year
+3.5 rooms ; 90 m_ ; Apartment;Avenue De Morges 145; 1004 Lausanne;Underfloor heating;Garden view;Spacious basement;CHF 2,350.-;CHF 313 / m_ / year
+2.5 rooms ; 70 m_ ; Apartment;Avenue De L'église-Anglaise 6; 1006 Lausanne;Fully renovated interiors;Prime location near amenities;Spacious 70m2 living area;CHF 2,700.-;CHF 463 / m_ / year
+3.5 rooms ; 76 m_ ; Apartment;Rue Dr. César-Roux 5; 1005 Lausanne;Fully renovated;Cellar available;Parking available;CHF 2,085.-;CHF 329 / m_ / year
+3.5 rooms ; 80 m_ ; Apartment;Rue Dr. César-Roux 5; 1005 Lausanne;Fully renovated;Balcony available;Cellar included;CHF 2,180.-;CHF 327 / m_ / year
+3.5 rooms ; 76 m_ ; Apartment;Rue Dr. César-Roux 5; 1005 Lausanne;Renovated building;Office room included;Parking available;CHF 2,080.-;CHF 328 / m_ / year
+3 rooms ; 77 m_ ; Apartment;Rue Dr. César-Roux 5; 1005 Lausanne;Fully renovated;Balcony;Cellar and parking;CHF 2,090.-;CHF 326 / m_ / year
+2.5 rooms ; 70 m_ ; Apartment;Avenue de l'Université 24; 1005 Lausanne;Close to public transport;Spacious living area;Modern kitchen amenities;CHF 1,870.-;CHF 321 / m_ / year
+3 rooms ; 57 m_ ; Apartment;Chemin Vermont 22; 1006 Lausanne;Ground floor apartment;Equipped kitchen;Terrace;CHF 1,559.-;CHF 328 / m_ / year
+4 rooms ; 84 m_ ; Apartment;Chemin De Renens 22; 1004 Lausanne;Quiet green neighborhood;Fully equipped kitchen;Balcony with nice view;CHF 2,020.-;CHF 289 / m_ / year
+1 room ; 20 m_ ; Studio;Chemin Du Devin 47c; 1012 Lausanne;Bright living space;Equipped kitchen;Shared swimming pool;CHF 1,250.-;CHF 750 / m_ / year
+1 room ; 40 m_ ; Apartment;Avenue Victor-Ruffy 32; 1012 Lausanne;Close to amenities;Well-equipped kitchen;Flexible hall space;CHF 1,250.-;CHF 375 / m_ / year
+2 rooms ; 58 m_ ; Apartment;Rue Du Petit-Beaulieu; 1004 Lausanne;Equipped kitchen included;Bright living area;Close to city amenities;CHF 1,630.-;CHF 337 / m_ / year
+1 room ; 30 m_ ; Apartment;Chemin De Boston; 1004 Lausanne;Spacious balcony with view;Modern Italian shower;Fully furnished and equipped;CHF 1,500.-;CHF 600 / m_ / year
+1.5 rooms ; 30 m_ ; Apartment;Avenue De La Gare 40; 1003 Lausanne;Near train station & metro;Garden view;Fully furnished;CHF 1,900.-;CHF 760 / m_ / year
+1.5 rooms ; 38 m_ ; Apartment;Rue Du Flon 12; 1003 Lausanne;Modern and fully furnished;Equipped kitchen and dining area;Near the metro;CHF 2,000.-;CHF 632 / m_ / year
+2.5 rooms ; 57 m_ ; Apartment;Route Du Pavement 79b; 1018 Lausanne;No deposit required;Close to city and nature;Private terrace included;CHF 1,830.-;CHF 385 / m_ / year
+5 rooms ; 162 m_ ; Apartment;Avenue Du Léman 30; 1005 Lausanne;Exceptional lake view;Spacious south terrace;Fully equipped kitchen;CHF 4,483.-;CHF 332 / m_ / year
+3.5 rooms ; 63 m_ ; Apartment;Rue Saint-Martin 32; 1005 Lausanne;Sunny balcony for relaxation;Open kitchen with living area;Cozy parquet flooring throughout;CHF 1,990.-;CHF 379 / m_ / year
+2.5 rooms ; 50 m_ ; Apartment;Avenue de France; 1004 Lausanne;Prime location in Lausanne;Fully equipped kitchen;Laundry facilities available;CHF 1,750.-;CHF 420 / m_ / year
+2.5 rooms ; 67 m_ ; Apartment;;1004 Lausanne;Stunning mountain views;Cozy fireplace ambiance;Spacious outdoor terrace;CHF 1,840.-;CHF 330 / m_ / year
+3 rooms ; 62 m_ ; Apartment;Chemin des Glycines 2; 1004 Lausanne;Quiet zone 30 location;Close to shops and parks;Ideal for family living;CHF 1,750.-;CHF 339 / m_ / year
+1 room ; 37 m_ ; Apartment;Chemin Antoine-De-Chandieu 22; 1006 Lausanne;Equipped separate kitchen;Balcony with quiet view;Shared laundry facilities;CHF 1,090.-;CHF 354 / m_ / year
+4 rooms ; 111 m_ ; Apartment;Chemin De Mornex 17; 1003 Lausanne;Spacious living areas;Elegant wooden floors;Bright, peaceful location;CHF 3,200.-;CHF 346 / m_ / year
+2.5 rooms ; 48 m_ ; Apartment;Chemin Riant-Pré; 1010 Lausanne;Spacious 16m2 balcony;Includes private parking box;Convenient metro access;CHF 1,650.-;CHF 413 / m_ / year
+6.5 rooms ; 170 m_ ; Attic flat;Rue Du Maupas 49; 1004 Lausanne;Panoramic terrace 150m2;Open kitchen with fireplace;Winter garden included;CHF 4,400.-;CHF 311 / m_ / year
+2.5 rooms ; 55 m_ ; Apartment;Avenue Des Boveresses 31a; 1010 Lausanne;Close to Monts-de-Pully;Equipped kitchen included;Balcony with scenic views;CHF 1,318.-;CHF 288 / m_ / year
+1 room ; 35 m_ ; Apartment;Avenue De Solange 2; 1006 Lausanne;11 min walk to HEMU;12 min walk to train station;Practical and central location;CHF 1,250.-;CHF 429 / m_ / year
+3.5 rooms ; 90 m_ ; Apartment;Rue De La Pontaise 15; 1018 Lausanne;Historic building charm;Modern open kitchen;Private terrace space;CHF 2,850.-;CHF 380 / m_ / year
+4.5 rooms ; 100 m_ ; Furnished apartment;Chemin Du Closelet 6; 1006 Lausanne;7 min to Lausanne center;Fully equipped kitchen;Balcony with city view;CHF 3,800.-;CHF 456 / m_ / year
+4.5 rooms ; 103 m_ ; Apartment;Avenue De La Vallombreuse 52; 1004 Lausanne;Ideal for shared living;Close to bus stop;Underground parking available;CHF 2,950.-;CHF 344 / m_ / year
+2.5 rooms ;; Apartment;Rue Saint-Roch 30; 1004 Lausanne;Bright and modern design;Spacious entrance hall;Elevator access available;CHF 1,646.-;—
+3.5 rooms ; 90 m_ ; Apartment;Avenue Gabriel-De-Rumine 30; 1005 Lausanne;Stunning lake views;Spacious living area;Access to communal garden;CHF 3,250.-;CHF 433 / m_ / year
+1.5 rooms ; 25 m_ ; Apartment;Place de la Sallaz; 1010 Lausanne;Open equipped kitchen;Cozy living area;Bathtub in bathroom;CHF 850.-;CHF 408 / m_ / year
+1.5 rooms ; 37 m_ ; Apartment;;1012 Lausanne;Designer furnished interior;Southeast view with balcony;Quiet residential area;CHF 1,600.-;CHF 519 / m_ / year
+3 rooms ; 65 m_ ; Apartment;;1007 Lausanne;Quiet inner courtyard;South-west facing;Close to public transport;CHF 2,000.-;CHF 369 / m_ / year
+2.5 rooms ; 65 m_ ; Apartment;Route D'oron 14d; 1010 Lausanne;Cozy living room balcony;Functional separate kitchen;Close to shops and parks;CHF 1,786.-;CHF 330 / m_ / year
+3 rooms ; 60 m_ ; Apartment;Avenue De Cour 82; 1007 Lausanne;Bright lake view;Fully equipped kitchen;Close to public transport;CHF 2,000.-;CHF 400 / m_ / year
+2.5 rooms ; 55 m_ ; Apartment;Chemin Des Sorbiers; 1012 Lausanne;Stunning lake views;Top floor tranquility;All-inclusive rent;CHF 2,300.-;CHF 502 / m_ / year
+4 rooms ;; Apartment;;1005 Lausanne;Prime location in city center;Modern amenities throughout;Spacious balcony with views;CHF 2,400.-;—
+4 rooms ; 77 m_ ; Apartment;Avenue Du Mont-Blanc 3; 1018 Lausanne;Close to city center;Equipped kitchen;Balcony with view;CHF 1,970.-;CHF 307 / m_ / year
+2.5 rooms ; 81 m_ ; Apartment;Avenue De Cour 155; 1007 Lausanne;Stunning lake views;Sunny balcony space;Close to city center;CHF 2,300.-;CHF 341 / m_ / year
+5.5 rooms ; 135 m_ ; Apartment;Rue Pré-Du-Marché 1; 1003 Lausanne;Flexible room layout;Central location;Balcony with city view;CHF 3,200.-;CHF 284 / m_ / year
+2.5 rooms ; 62 m_ ; Apartment;;1004 Lausanne;Two sunny balconies;Beautiful view;Quiet, prime location;CHF 1,707.-;CHF 330 / m_ / year
+2.5 rooms ; 65 m_ ; Apartment;Chemin De Renens 20; 1004 Lausanne;Quiet green neighborhood;Close to Valency Park;Pet-friendly living space;CHF 1,770.-;CHF 327 / m_ / year
+2.5 rooms ; 49 m_ ; Penthouse;Avenue Collonges 12; 1004 Lausanne;Quiet neighborhood location;Spacious terrace for relaxation;Close to public transport;CHF 1,405.-;CHF 344 / m_ / year
+4.5 rooms ; 85 m_ ; Apartment;Chemin De Champ-Soleil 11; 1012 Lausanne;Newly fitted kitchen;Spacious living area;Mandatory garage or parking;CHF 2,410.-;CHF 340 / m_ / year
+2.5 rooms ; 47 m_ ; Apartment;Chemin Du Boisy 35; 1004 Lausanne;Cozy balcony for relaxation;Charming building in city center;Additional outdoor parking option;CHF 1,490.-;CHF 380 / m_ / year
+2 rooms ; 68 m_ ; Apartment;Avenue Du Léman 21; 1005 Lausanne;Close to bus station and city center;Newly renovated, high-quality finishes;Cellar and parking available;CHF 2,400.-;CHF 424 / m_ / year
+5.5 rooms ; 135 m_ ; Furnished apartment;;1004 Lausanne;Bright living room with lake view;Equipped kitchen for convenience;Balcony for outdoor relaxation;CHF 3,840.-;CHF 341 / m_ / year
+5 rooms ; 102 m_ ; Apartment;Avenue Du Léman 2; 1005 Lausanne;Completely renovated interior;Elevator access available;Sunny balcony for relaxation;CHF 3,850.-;CHF 453 / m_ / year
+2.5 rooms ; 58 m_ ; Apartment;Chemin Du Chasseron 6; 1004 Lausanne;Stunning lake and mountain views;Modern kitchen with top appliances;Quiet yet central location;CHF 2,480.-;CHF 513 / m_ / year
+2.5 rooms ; 32 m_ ; Apartment;Avenue D'echallens 88; 1004 Lausanne;Equipped open kitchen;Close to amenities;Includes a cellar;CHF 1,600.-;CHF 600 / m_ / year
+4.5 rooms ; 120 m_ ; Apartment;Route De Berne 111; 1010 Lausanne;Spacious private garden;Open-plan living area;Secure building entrance;CHF 3,020.-;CHF 302 / m_ / year
+3 rooms ; 85 m_ ; Studio;Avenue D'echallens 133; 1004 Lausanne;Spacious living room with balcony;Historic building charm;Ideal location in city center;CHF 2,150.-;CHF 304 / m_ / year
+3.5 rooms ;; Apartment;;1000 Lausanne;Shared kitchen and living room;Close to public transport;Nearby grocery stores;CHF 850.-;—
+1 room ; 27 m_ ; Apartment;Route Du Pavement 48; 1018 Lausanne;Bright living area;Modern equipped kitchen;Mountain view windows;CHF 1,270.-;CHF 564 / m_ / year
+4.5 rooms ; 100 m_ ; Apartment;;1004 Lausanne;Bright private garden;Fully renovated in 2023;Close to transport links;CHF 2,920.-;CHF 350 / m_ / year
+2.5 rooms ; 62 m_ ; Apartment;Chemin De Bérée 12; 1010 Lausanne;2 min to metro station;Pet-friendly living space;Wheelchair accessible design;CHF 1,920.-;CHF 372 / m_ / year
+3.5 rooms ; 95 m_ ; Apartment;;1010 Lausanne;Open-plan living area;Wrap-around balcony;Quiet neighborhood access;CHF 2,900.-;CHF 366 / m_ / year
+2.5 rooms ;; Apartment;;1005 Lausanne;Fully equipped kitchen;Close to public transport;Cozy living space;CHF 1,800.-;—
+4.5 rooms ; 95 m_ ; Furnished apartment;Avenue D'ouchy 57; 1006 Lausanne;Near Lake Geneva;Fully furnished;Balcony with view;CHF 3,900.-;CHF 493 / m_ / year
+3 rooms ; 72 m_ ; Apartment;Chemin Benjamin-Dumur 4; 1004 Lausanne;Close to public transport;Equipped modern kitchen;Balcony with city views;CHF 2,150.-;CHF 358 / m_ / year
+4.5 rooms ; 189 m_ ; Apartment;Route De La Feuillère 29; 1010 Lausanne;Spacious terrace for relaxation;Functional layout for families;Indoor parking available;CHF 3,700.-;CHF 235 / m_ / year
+4.5 rooms ; 101 m_ ; Apartment;Avenue Juste-Olivier; 1006 Lausanne;Stunning lake and mountain views;Modern kitchen with wine cellar;Three balconies for relaxation;CHF 4,010.-;CHF 476 / m_ / year
+1 room ; 26 m_ ; Apartment;Rue Du Clos-De-Bulle 5; 1004 Lausanne;Heart of the city;Close to public transport;Convenient storage space;CHF 920.-;CHF 425 / m_ / year
+1.5 rooms ; 25 m_ ; Apartment;Avenue De Tivoli 70; 1007 Lausanne;Open kitchen design;24/7 emergency service;15% rent guarantee discount;CHF 950.-;CHF 456 / m_ / year
+5 rooms ; 126 m_ ; Apartment;Avenue De Sévelin 4a; 1007 Lausanne;Close to public transport;Balcony with city views;Near shops and schools;CHF 3,205.-;CHF 305 / m_ / year
+3.5 rooms ; 84 m_ ; Apartment;Avenue Jomini 5; 1004 Lausanne;Balcony with great views;Modern open kitchen;Included indoor parking;CHF 2,350.-;CHF 336 / m_ / year
+1 room ; 18 m_ ; Apartment;Chemin De La Prairie 62; 1007 Lausanne;Near EPFL & University;Quiet & convenient location;No rental guarantee required;CHF 930.-;CHF 620 / m_ / year
+3.5 rooms ; 67 m_ ; Apartment;Chemin De La Vulliette 18; 1000 Lausanne;Sunny balcony access;Open, equipped kitchen;Quiet neighborhood location;CHF 2,550.-;CHF 457 / m_ / year
+3.5 rooms ; 65 m_ ; Apartment;Avenue Du Grey 76; 1018 Lausanne;Quiet location;Beautiful parquet;Functional kitchen;CHF 1,390.-;CHF 257 / m_ / year
+4.5 rooms ; 103 m_ ; Apartment;Avenue Du Grey 76; 1018 Lausanne;Quiet location with access;Beautiful parquet flooring;Functional kitchen & balcony;CHF 1,550.-;CHF 181 / m_ / year
+3.5 rooms ; 70 m_ ; Apartment;Avenue Du Grey 76; 1018 Lausanne;Quiet location with access;Beautiful parquet flooring;Functional kitchen & balcony;CHF 1,390.-;CHF 238 / m_ / year
+4.5 rooms ; 97 m_ ; Apartment;Avenue Du Grey 76; 1018 Lausanne;Quiet location with access;Beautiful parquet flooring;Functional kitchen & balcony;CHF 1,790.-;CHF 221 / m_ / year
+4 rooms ;; Duplex;Rue Des Jardins 7; 1018 Lausanne;Open-plan kitchen;Close to public transport;Indoor parking available;CHF 2,600.-;—
+3.5 rooms ;; Apartment;Avenue De Sévelin 13b; 1004 Lausanne;Modern apartment on the 5th floor;Quiet location, near Flon;Balcony with mountain view;CHF 2,468.-;—
+1 room ; 21 m_ ; Apartment;Avenue De Cour 65; 1007 Lausanne;Central location near lake;Quiet neighborhood ambiance;Ideal for students;CHF 1,090.-;CHF 623 / m_ / year
+3 rooms ; 68 m_ ; Apartment;;1012 Lausanne;Sunny balcony for relaxation;Spacious living area;Renovated building in 2021;CHF 2,260.-;CHF 399 / m_ / year
+2.5 rooms ; 69 m_ ; Apartment;Rue Des Terreaux; 1003 Lausanne;Fully renovated in 2021;Bright with balcony view;Elevator access to 6th floor;CHF 2,054.-;CHF 357 / m_ / year
+1.5 rooms ; 32 m_ ; Apartment;Avenue D'echallens 59; 1004 Lausanne;Steps from Valency Park;Balcony with lake view;24/7 emergency service;CHF 1,015.-;CHF 381 / m_ / year
+3 rooms ;; Apartment;;1005 Lausanne;Ideal for family upgrade;Located in Rue Marterey;Max rent 2'800 CHF;CHF 1,710.-;—
+2.5 rooms ;; Apartment;;1018 Lausanne;Ideal for single parents;Close to schools and parks;Affordable rent under CHF 1500;CHF 1,400.-;—
+2.5 rooms ; 65 m_ ; Apartment;Place Chauderon; 1003 Lausanne;All utilities included;Stunning lake view;Spacious living area;CHF 1,960.-;CHF 362 / m_ / year
+3.5 rooms ; 89 m_ ; Apartment;Avenue Louis-Ruchonnet; 1003 Lausanne;Renovated kitchen & bath;Spacious hallway area;Quiet courtyard bedroom;CHF 2,535.-;CHF 342 / m_ / year
+4 rooms ; 92 m_ ; Apartment;Avenue Jomini 13; 1018 Lausanne;Spacious living with balcony;Decorative fireplace charm;Private garden access;CHF 3,480.-;CHF 454 / m_ / year
+2 rooms ; 47 m_ ; Apartment;Rue De La Pontaise 41; 1018 Lausanne;Near city center;Charming old building;Cellar included;CHF 1,530.-;CHF 391 / m_ / year
+3 rooms ; 57 m_ ; Apartment;Avenue De La Chablière 54; 1004 Lausanne;Bright living room with balcony;Fully equipped kitchen;Quiet neighborhood, close to center;CHF 1,775.-;CHF 374 / m_ / year
+2.5 rooms ; 49 m_ ; Apartment;Route Des Plaines-Du-Loup 78; 1018 Lausanne;Newly built in 2023;Open kitchen with amenities;Quiet and secure building;CHF 1,520.-;CHF 372 / m_ / year
+2 rooms ; 47 m_ ; Apartment;Route Aloys-Fauquez 149; 1018 Lausanne;Close to Lake Sauvabelin;Balcony with great views;Near public transport;CHF 1,500.-;CHF 383 / m_ / year
+5 rooms ; 126 m_ ; Apartment;Avenue De Sévelin 4a; 1007 Lausanne;Close to public transport;Balcony with city views;Near shops and schools;CHF 3,205.-;CHF 305 / m_ / year
+3 rooms ; 89 m_ ; Apartment;Avenue Louis-Ruchonnet 8; 1003 Lausanne;Close to public transport;Spacious living area;Modern equipped kitchen;CHF 2,745.-;CHF 370 / m_ / year
+3 rooms ; 56 m_ ; Apartment;Route D'oron 25; 1010 Lausanne;Sunny balcony with views;Modern open kitchen;Convenient storage space;CHF 1,640.-;CHF 351 / m_ / year
+4.5 rooms ; 100 m_ ; Apartment;Avenue Édouard-Dapples; 1006 Lausanne;Spacious 100m2 flat;Balcony with stunning view;Close to metro & amenities;CHF 3,490.-;CHF 419 / m_ / year
+3 rooms ; 80 m_ ; Apartment;Avenue De Tivoli 26; 1007 Lausanne;Spacious living area;Large balcony for relaxation;Strategic location near transport;CHF 2,450.-;CHF 368 / m_ / year
+4 rooms ; 100 m_ ; Apartment;Route Du Pavement 34; 1018 Lausanne;Renovated in 2022;Family-friendly atmosphere;Close to forest and shops;CHF 2,750.-;CHF 330 / m_ / year
+5 rooms ; 125 m_ ; Apartment;Avenue De Sévelin 4a; 1007 Lausanne;Bright and spacious layout;Modern kitchen with dishwasher;Long balcony for relaxation;CHF 3,191.-;CHF 306 / m_ / year
+1 room ; 21 m_ ; Apartment;Rue Saint-Laurent 33; 1003 Lausanne;Modern and stylish decor;Fully equipped kitchen;Prime location near Flon;CHF 1,680.-;CHF 960 / m_ / year
+2 rooms ; 70 m_ ; Apartment;Rue De L'ale 38; 1003 Lausanne;Spacious living area;Equipped kitchen;Close to public transport;CHF 1,567.-;CHF 269 / m_ / year
+4.5 rooms ; 104 m_ ; Apartment;Route De La Feuillère 27; 1010 Lausanne;Spacious balcony for relaxation;Modern open kitchen design;Family-friendly play area nearby;CHF 3,241.-;CHF 374 / m_ / year
+4 rooms ; 91 m_ ; Apartment;Avenue De Florimont 5; 1006 Lausanne;Bright living room;Cozy balcony space;Quiet neighborhood;CHF 3,015.-;CHF 398 / m_ / year
+5 rooms ; 98 m_ ; Apartment;Rue De La Louve 12; 1003 Lausanne;Spacious south-facing balcony;Equipped modern kitchen;Historic cement tile flooring;CHF 3,270.-;CHF 400 / m_ / year
+2.5 rooms ; 70 m_ ; Apartment;Chemin de la Vuachère; 1005 Lausanne;Stunning mountain views;Cozy fireplace ambiance;Spacious outdoor terrace;CHF 1,968.-;CHF 337 / m_ / year
+2.5 rooms ; 44 m_ ; Apartment;Rue Docteur César-Roux; 1005 Lausanne;Stunning city views;Bright living space;Close to public transport;CHF 1,399.-;CHF 382 / m_ / year
+2.5 rooms ; 60 m_ ; Apartment;Avenue de l'Elysée 13; 1006 Lausanne;Quiet location near tennis;Large cellar for storage;10 min walk to train station;CHF 1,938.-;CHF 388 / m_ / year
+3.5 rooms ; 80 m_ ; Apartment;Rue Dr. César-Roux 4; 1005 Lausanne;Bright and airy living room;West-facing loggia;Close to public transport;CHF 2,097.-;CHF 315 / m_ / year
+4 rooms ; 100 m_ ; Apartment;Avenue De La Gare 22; 1003 Lausanne;High ceilings & parquet;Balcony with mountain view;Close to Lausanne station;CHF 2,950.-;CHF 354 / m_ / year
+5 rooms ; 125 m_ ; Apartment;Avenue Des Mousquines 38; 1005 Lausanne;Historic building from 1910;Two sunny balconies;Quiet, sought-after area;CHF 4,080.-;CHF 392 / m_ / year
+1.5 rooms ; 40 m_ ; Apartment;Avenue De Sévelin 13f; 1004 Lausanne;Private terrace for relaxation;Equipped kitchen with appliances;Close to Flon district amenities;CHF 1,317.-;CHF 395 / m_ / year
+3.5 rooms ; 73 m_ ; Apartment;Chemin Du Levant 139; 1005 Lausanne;Bright living room space;Spacious fitted kitchen;Balcony with green view;CHF 2,075.-;CHF 341 / m_ / year
+2.5 rooms ; 50 m_ ; Apartment;Rue Marterey 20; 1005 Lausanne;Balcony with city view;Equipped kitchen essentials;Close to public transport;CHF 2,150.-;CHF 516 / m_ / year
+2 rooms ; 90 m_ ; Apartment;Chemin Du Cap 17; 1006 Lausanne;Bright living space;Private parking spot;Access to nature trails;CHF 2,157.-;CHF 288 / m_ / year
+2.5 rooms ; 41 m_ ; Apartment;Avenue Du Grey 47; 1018 Lausanne;Modern equipped kitchen;Stunning lake views;Bright and spacious rooms;CHF 1,528.-;CHF 447 / m_ / year
+1 room ; 18 m_ ; Apartment;Chemin De La Prairie 60; 1007 Lausanne;Quiet location for studying;3 min to metro station;Common laundry facilities;CHF 910.-;CHF 607 / m_ / year
+1.5 rooms ;; Apartment;Avenue De Morges; 1004 Lausanne;Sunny balcony retreat;Functional equipped kitchen;Quiet residential area;CHF 1,435.-;—
+1.5 rooms ;; Apartment;Chemin De Bonne-Espérance 20; 1006 Lausanne;Available from June 1st;Lease until August 2025;Serious tenant required;CHF 790.-;—
+2.5 rooms ; 75 m_ ; Apartment;;1006 Lausanne;Open-plan living space;Green space view;Optional underground parking;CHF 2,015.-;CHF 322 / m_ / year
+4.5 rooms ; 110 m_ ; Apartment;Chemin De La Motte 20; 1018 Lausanne;Spacious private garden;Modern open kitchen;Sauna access included;CHF 3,490.-;CHF 381 / m_ / year
+3.5 rooms ; 81 m_ ; Apartment;Chemin Des Eterpeys 27; 1010 Lausanne;Close to shops and schools;Sunny balcony for relaxation;Modern kitchen with appliances;CHF 2,250.-;CHF 333 / m_ / year
+4.5 rooms ;; Apartment;Avenue De La Chablière 54; 1004 Lausanne;5 min to public transport;Quiet neighborhood;Close to EPFL;CHF 760.-;—

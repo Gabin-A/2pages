@@ -1,0 +1,406 @@
+number_of_rooms;square_meters;place_type;street;zip_city;char.1;char.2;char.3;rent;p/squarem/y
+2 rooms ; 70 m_ ; Apartment;Kreuzstrasse; 8008 Zürich;Modern kitchen with balcony;Bright living area;Prime location in Zürich;CHF 5,500.-;CHF 943 / m_ / year
+1 room ; 74 m_ ; Apartment;In Gassen; 8001 Zürich;Modern kitchen amenities;Sunny balcony space;Prime city location;CHF 8,000.-;CHF 1,297 / m_ / year
+;27 m_ ; Apartment;Stauffacherstrasse; 8004 Zürich;Modern design throughout;Central location in Zürich;Spacious balcony with views;CHF 2,782.-;CHF 1,236 / m_ / year
+;28 m_ ; Apartment;Binzmühlestrasse; 8050 Zürich;Modern kitchen with balcony;Bright living area with views;Close to public transport;CHF 3,960.-;CHF 1,697 / m_ / year
+2 rooms ; 79 m_ ; Apartment;Birmensdorferstrasse; 8055 Zürich;Modern design throughout;Spacious balcony view;Prime city location;CHF 3,691.-;CHF 561 / m_ / year
+1 room ; 54 m_ ; Apartment;Stauffacherstrasse; 8004 Zürich;Bright living area;Modern kitchen design;Close to public transport;CHF 4,066.-;CHF 904 / m_ / year
+2 rooms ; 85 m_ ; Apartment;Dahliastrasse; 8008 Zürich;Modern kitchen with balcony;Bright living area;Prime location in Zürich;CHF 5,690.-;CHF 803 / m_ / year
+2 rooms ; 90 m_ ; Apartment;Geranienstrasse; 8008 Zürich;Bright and airy living space;Modern kitchen with balcony;Prime location near amenities;CHF 8,141.-;CHF 1,085 / m_ / year
+1 room ; 60 m_ ; Apartment;Eidmattstrasse; 8032 Zürich;Modern kitchen with balcony;Bright living area with views;Close to public transport;CHF 6,413.-;CHF 1,283 / m_ / year
+;18 m_ ; Apartment;Schaffhauserstrasse; 8050 Zürich;Modern design throughout;Spacious balcony view;Prime location in Zürich;CHF 1,980.-;CHF 1,320 / m_ / year
+;20 m_ ; Apartment;Badenerstrasse; 8004 Zürich;Modern design throughout;Prime location in Zürich;Spacious balcony with views;CHF 2,400.-;CHF 1,440 / m_ / year
+2 rooms ; 66 m_ ; Apartment;Binzmühlestrasse; 8050 Zürich;Stylish open-plan layout;Sunny balcony with views;Prime location near amenities;CHF 8,652.-;CHF 1,573 / m_ / year
+1 room ; 60 m_ ; Apartment;Baurstrasse; 8008 Zürich;Modern design throughout;Central location in Zürich;Stunning city views;CHF 8,915.-;CHF 1,783 / m_ / year
+1 room ; 50 m_ ; Apartment;Gubelstrasse; 8050 Zürich;Modern design throughout;Spacious balcony view;Prime city location;CHF 3,250.-;CHF 780 / m_ / year
+1 room ; 30 m_ ; Apartment;Schaffhauserstrasse; 8052 Zürich;Spacious balcony with views;Modern kitchen with island;Prime location near amenities;CHF 2,950.-;CHF 1,180 / m_ / year
+;24 m_ ; Apartment;Forchstrasse; 8008 Zürich;Spacious balcony with views;Modern kitchen with island;Prime location near transport;CHF 2,300.-;CHF 1,150 / m_ / year
+;23 m_ ; Apartment;Forchstrasse; 8008 Zürich;Spacious balcony with views;Modern kitchen with island;Bright living area with light;CHF 2,407.-;CHF 1,256 / m_ / year
+;23 m_ ; Apartment;Forchstrasse; 8008 Zürich;Modern design throughout;Spacious balcony view;Prime location in Zürich;CHF 2,461.-;CHF 1,284 / m_ / year
+1 room ; 48 m_ ; Apartment;Kanzleistrasse; 8004 Zürich;Modern kitchen with balcony;Bright living area with views;Prime location near amenities;CHF 6,345.-;CHF 1,586 / m_ / year
+1 room ; 40 m_ ; Apartment;Kanzleistrasse; 8004 Zürich;Modern design throughout;Prime location in Zürich;Spacious balcony with views;CHF 5,598.-;CHF 1,679 / m_ / year
+1 room ; 40 m_ ; Apartment;Eidmattstrasse; 8032 Zürich;Spacious balcony with view;Stylish open-plan layout;Prime location in Zürich;CHF 5,973.-;CHF 1,792 / m_ / year
+1 room ; 40 m_ ; Apartment;Badenerstrasse; 8004 Zürich;Modern design throughout;Prime location in Zürich;Spacious balcony with views;CHF 5,599.-;CHF 1,680 / m_ / year
+1 room ; 50 m_ ; Apartment;Badenerstrasse; 8004 Zürich;Modern design throughout;Prime location in Zürich;Spacious balcony with views;CHF 5,973.-;CHF 1,434 / m_ / year
+;20 m_ ; Apartment;Forchstrasse; 8008 Zürich;Modern design throughout;Spacious balcony view;Prime location in Zürich;CHF 2,193.-;CHF 1,316 / m_ / year
+;18 m_ ; Apartment;Forchstrasse; 8008 Zürich;Modern design throughout;Spacious balcony view;Prime location in Zürich;CHF 2,407.-;CHF 1,605 / m_ / year
+2 rooms ; 72 m_ ; Apartment;Badenerstrasse; 8004 Zürich;Modern design throughout;Prime location in Zürich;Spacious balcony with views;CHF 3,800.-;CHF 633 / m_ / year
+1 room ; 60 m_ ; Apartment;Badenerstrasse; 8004 Zürich;Modern kitchen with balcony;Bright living area with views;Prime location near transport;CHF 3,300.-;CHF 660 / m_ / year
+2 rooms ; 115 m_ ; Apartment;Gotthelfstrasse; 8003 Zürich;Modern kitchen with balcony;Bright living area;Prime location in Zürich;CHF 9,228.-;CHF 963 / m_ / year
+1 room ; 60 m_ ; Apartment;Nordstrasse; 8006 Zürich;Modern design throughout;Spacious balcony view;Prime city location;CHF 4,200.-;CHF 840 / m_ / year
+3 rooms ; 70 m_ ; Apartment;Universitätstrasse; 8006 Zürich;Prime location near university;Modern amenities throughout;Spacious balcony with views;CHF 5,000.-;CHF 857 / m_ / year
+1 room ; 83 m_ ; Apartment;Dahliastrasse; 8008 Zürich;Modern kitchen with balcony;Bright living area with views;Prime location near amenities;CHF 5,690.-;CHF 823 / m_ / year
+;26 m_ ; Apartment;Baslerstrasse; 8048 Zürich;Modern kitchen with balcony;Bright living area with views;Prime location near amenities;CHF 4,604.-;CHF 2,125 / m_ / year
+1 room ; 60 m_ ; Apartment;Nordstrasse; 8006 Zürich;Modern kitchen with balcony;Bright living area;Prime city location;CHF 4,200.-;CHF 840 / m_ / year
+2 rooms ; 83 m_ ; Apartment;Seefeldstrasse; 8008 Zürich;Modern design throughout;Stunning city views;Prime location near lake;CHF 5,890.-;CHF 852 / m_ / year
+1 room ; 23 m_ ; Apartment;Friesstrasse; 8050 Zürich;Spacious balcony with views;Modern kitchen with island;Prime location near amenities;CHF 2,100.-;CHF 1,096 / m_ / year
+1 room ; 26 m_ ; Apartment;Stauffacherstrasse; 8004 Zürich;Modern design throughout;Central location in Zürich;Spacious balcony with views;CHF 2,889.-;CHF 1,333 / m_ / year
+;18 m_ ; Apartment;Schwamendingenstrasse; 8050 Zürich;Spacious balcony with view;Bright open living area;Close to public transport;CHF 2,461.-;CHF 1,641 / m_ / year
+;29 m_ ; Apartment;Birmensdorferstrasse; 8055 Zürich;Modern design throughout;Spacious balcony view;Prime city location;CHF 2,621.-;CHF 1,085 / m_ / year
+1 room ; 40 m_ ; Apartment;Birmensdorferstrasse; 8055 Zürich;Stylish open-plan layout;Balcony with city views;Prime location near amenities;CHF 2,942.-;CHF 883 / m_ / year
+1 room ; 23 m_ ; Apartment;Buckhauserstrasse; 8048 Zürich;Modern design throughout;Spacious balcony view;Prime city location;CHF 2,675.-;CHF 1,396 / m_ / year
+;27 m_ ; Apartment;Buckhauserstrasse; 8048 Zürich;Modern kitchen with balcony;Bright living area with views;Close to public transport;CHF 2,568.-;CHF 1,141 / m_ / year
+1 room ; 100 m_ ; Apartment;Wengistrasse; 8004 Zürich;Spacious balcony with views;Modern kitchen with island;Prime location in Zurich;CHF 3,500.-;CHF 420 / m_ / year
+1 room ; 35 m_ ; Apartment;Stampfenbachstrasse; 8006 Zürich;Stylish urban living space;Close to public transport;Vibrant neighborhood amenities;CHF 8,424.-;CHF 2,888 / m_ / year
+2 rooms ; 75 m_ ; Apartment;Geranienstrasse; 8008 Zürich;Modern kitchen with balcony;Bright living area;Prime location in Zürich;CHF 7,500.-;CHF 1,200 / m_ / year
+;21 m_ ; Apartment;Forchstrasse; 8008 Zürich;Modern design throughout;Spacious balcony view;Prime location in Zürich;CHF 2,407.-;CHF 1,375 / m_ / year
+;20 m_ ; Apartment;Forchstrasse; 8008 Zürich;Modern design throughout;Spacious balcony view;Prime location in Zürich;CHF 2,300.-;CHF 1,380 / m_ / year
+;19 m_ ; Apartment;Forchstrasse; 8008 Zürich;Stunning city views;Modern kitchen design;Close to public transport;CHF 2,407.-;CHF 1,520 / m_ / year
+1 room ; 90 m_ ; Apartment;Neugasse; 8005 Zürich;Modern kitchen with balcony;Bright living area with views;Prime location near amenities;CHF 1,300.-;CHF 173 / m_ / year
+1 room ; 70 m_ ; Apartment;Färberstrasse; 8008 Zürich;Spacious balcony with views;Modern kitchen with island;Prime location in Zurich;CHF 4,790.-;CHF 821 / m_ / year
+1 room ; 20 m_ ; Apartment;Asylstrasse; 8032 Zürich;Stylish open-plan layout;Sunny balcony with views;Prime location near amenities;CHF 3,600.-;CHF 2,160 / m_ / year
+3 rooms ; 75 m_ ; Apartment;Gubelstrasse; 8050 Zürich;Spacious balcony with view;Stylish open-plan layout;Prime location in Zürich;CHF 4,750.-;CHF 760 / m_ / year
+1 room ; 30 m_ ; Apartment;Gubelstrasse; 8050 Zürich;Modern kitchen with balcony;Bright living area;Prime city location;CHF 2,450.-;CHF 980 / m_ / year
+2 rooms ; 110 m_ ; Apartment;Mainaustrasse; 8008 Zürich;Modern design throughout;Spacious balcony view;Prime city location;CHF 6,490.-;CHF 708 / m_ / year
+1 room ; 36 m_ ; Apartment;Friesstrasse; 8050 Zürich;Spacious balcony with view;Modern kitchen with island;Bright living area with light;CHF 3,100.-;CHF 1,033 / m_ / year
+;30 m_ ; Apartment;Baurstrasse; 8008 Zürich;Stylish urban living space;Close to public transport;Vibrant neighborhood amenities;CHF 4,980.-;CHF 1,992 / m_ / year
+1 room ; 60 m_ ; Apartment;Schwamendingenstrasse; 8050 Zürich;Modern kitchen with balcony;Bright living area;Close to public transport;CHF 4,012.-;CHF 802 / m_ / year
+1 room ; 35 m_ ; Apartment;Hohlstrasse; 8048 Zürich;Stylish urban design;Close to public transport;Spacious balcony with view;CHF 2,835.-;CHF 972 / m_ / year
+1 room ; 35 m_ ; Apartment;Hohlstrasse; 8048 Zürich;Bright and spacious room;Well-located in Zürich;Close to public transport;CHF 2,889.-;CHF 1,005 / m_ / year
+2 rooms ; 185 m_ ; Apartment;Titlisstrasse; 8032 Zürich;Modern kitchen with balcony;Bright living area;Prime location near amenities;CHF 7,550.-;CHF 490 / m_ / year
+1 room ; 35 m_ ; Apartment;Hohlstrasse; 8048 Zürich;Stylish urban living;Close to public transport;Vibrant neighborhood vibes;CHF 2,835.-;CHF 972 / m_ / year
+1 room ; 38 m_ ; Apartment;Birmensdorferstrasse; 8055 Zürich;Modern design throughout;Spacious balcony view;Prime city location;CHF 2,728.-;CHF 861 / m_ / year
+1 room ; 40 m_ ; Apartment;Buckhauserstrasse; 8048 Zürich;Bright open living space;Stylish kitchen with island;Close to public transport;CHF 2,782.-;CHF 835 / m_ / year
+2 rooms ; 80 m_ ; Apartment;General-Wille-Strasse; 8002 Zürich;Stylish open-plan layout;Balcony with city views;Prime location near amenities;CHF 5,890.-;CHF 884 / m_ / year
+1 room ; 30 m_ ; Apartment;Friesstrasse; 8050 Zürich;Spacious balcony with view;Modern kitchen with island;Prime location in Zurich;CHF 2,450.-;CHF 980 / m_ / year
+1 room ; 38 m_ ; Apartment;Schwamendingenstrasse; 8050 Zürich;Stunning mountain views;Cozy fireplace ambiance;Spacious outdoor terrace;CHF 2,729.-;CHF 862 / m_ / year
+1 room ; 39 m_ ; Apartment;Hohlstrasse; 8048 Zürich;Stylish open-plan layout;Central location with amenities;Balcony with city views;CHF 2,940.-;CHF 912 / m_ / year
+1 room ;25 m_ ; Apartment;Stampfenbachstrasse; 8006 Zürich;Modern kitchen amenities;Spacious balcony view;Prime city location;CHF 5,345.-;CHF 2,566 / m_ / year
+1 room ; 58 m_ ; Apartment;Müllerstrasse; 8004 Zürich;Modern kitchen with balcony;Bright living area;Prime location in Zürich;CHF 6,346.-;CHF 1,313 / m_ / year
+2 rooms ; 43 m_ ; Apartment;Zelgstrasse; 8003 Zürich;Spacious balcony with views;Modern kitchen with island;Prime location in Zurich;CHF 4,200.-;CHF 1,172 / m_ / year
+1 room ; 20 m_ ; Apartment;Asylstrasse; 8032 Zürich;Modern kitchen with balcony;Bright living area;Prime location in Zürich;CHF 2,250.-;CHF 1,350 / m_ / year
+1 room ; 33 m_ ; Apartment;Stauffacherstrasse; 8004 Zürich;Modern design throughout;Central location in Zürich;Spacious balcony with views;CHF 3,317.-;CHF 1,206 / m_ / year
+1 room ; 41 m_ ; Apartment;Schwamendingenstrasse; 8050 Zürich;Spacious balcony with view;Bright open living area;Close to public transport;CHF 2,835.-;CHF 830 / m_ / year
+2 rooms ;43 m_ ; Apartment;;8003 Zürich;Authentic photos provided;Virtual tours available;Secure online booking;CHF 7,660.-;CHF 2,138 / m_ / year
+3.5 rooms ;111 m_ ; Apartment;;8041 Zürich;Authentic photos provided;Virtual tours available;Secure online booking;CHF 7,720.-;CHF 835 / m_ / year
+2.5 rooms;75 m_ ; Apartment;;8038 Zürich;Authentic photos provided;Virtual tours available;Secure online booking;CHF 6,320.-;CHF 1,011 / m_ / year
+3 rooms;78 m_ ; Apartment;;8008 Zürich;Authentic photos provided;Virtual tours available;Secure online booking;CHF 4,150.-;CHF 638 / m_ / year
+2.5 rooms;67 m_ ; Apartment;;8037 Zürich;Authentic photos provided;Virtual tours available;Secure online booking;CHF 5,450.-;CHF 976 / m_ / year
+3 rooms;75 m_ ; Apartment;;8004 Zürich;Authentic photos provided;Virtual tours available;Secure online booking;CHF 6,200.-;CHF 992 / m_ / year
+2 rooms ;59 m_ ; Apartment;;8048 Zürich;Authentic photos provided;Virtual tours available;Secure online booking;CHF 5,220.-;CHF 1,062 / m_ / year
+3 rooms;77 m_ ; Apartment;;8003 Zürich;Authentic photos provided;Virtual tours available;Secure online booking;CHF 5,050.-;CHF 787 / m_ / year
+2 rooms ;54 m_ ; Apartment;;8006 Zürich;Authentic photos provided;Virtual tours available;Secure online booking;CHF 5,960.-;CHF 1,324 / m_ / year
+3 rooms;76 m_ ; Apartment;;8001 Zürich;Authentic photos provided;Virtual tours available;Safe online renting process;CHF 5,020.-;CHF 793 / m_ / year
+2.5 rooms;59 m_ ; Apartment;;8048 Zürich;Authentic photos provided;Virtual tours available;Secure online booking;CHF 4,830.-;CHF 982 / m_ / year
+2.5 rooms;70 m_ ; Apartment;;8004 Zürich;Authentic photos provided;Virtual tours available;Secure online booking;CHF 6,300.-;CHF 1,080 / m_ / year
+3 rooms;70 m_ ; Apartment;;8041 Zürich;Authentic photos provided;Virtual tours available;Secure online booking;CHF 4,110.-;CHF 705 / m_ / year
+2 rooms ;48 m_ ; Apartment;;8003 Zürich;Authentic photos provided;Virtual tours available;Secure online booking;CHF 5,950.-;CHF 1,488 / m_ / year
+1 room;18 m_ ; Studio;;8003 Zürich;Authentic photos provided;Virtual tours available;Secure online booking;CHF 3,450.-;CHF 2,300 / m_ / year
+2 rooms ;56 m_ ; Apartment;;8003 Zürich;Authentic photos provided;Virtual tours available;Secure online booking;CHF 6,420.-;CHF 1,376 / m_ / year
+1 room;32 m_ ; Studio;;8048 Zürich;Authentic photos provided;Virtual tours available;Secure online booking;CHF 3,660.-;CHF 1,373 / m_ / year
+2 rooms ;55 m_ ; Apartment;;8003 Zürich;Authentic photos provided;Virtual tours available;Secure online booking;CHF 6,100.-;CHF 1,331 / m_ / year
+4 rooms;101 m_ ; Apartment;;8055 Zürich;Authentic photos provided;Virtual tours available;Secure online booking;CHF 8,090.-;CHF 961 / m_ / year
+3 rooms;70 m_ ; Apartment;;8041 Zürich;Authentic photos provided;Virtual tours available;Secure online booking;CHF 4,700.-;CHF 806 / m_ / year
+1 room;32 m_ ; Studio;;8003 Zürich;Authentic photos provided;Virtual tours available;Secure online booking;CHF 3,630.-;CHF 1,361 / m_ / year
+2 rooms ;52 m_ ; Apartment;;8057 Zürich;Authentic photos provided;Virtual tours available;Secure online booking;CHF 3,840.-;CHF 886 / m_ / year
+2 rooms ;50 m_ ; Apartment;;8050 Zürich;Authentic photos provided;Virtual tours available;Secure online booking;CHF 2,880.-;CHF 691 / m_ / year
+3 rooms;73 m_ ; Apartment;;8041 Zürich;Authentic photos provided;Virtual tours available;Secure online booking;CHF 4,820.-;CHF 792 / m_ / year
+2 rooms ;61 m_ ; Apartment;;8003 Zürich;Authentic photos provided;Virtual tours available;Secure online booking;CHF 6,310.-;CHF 1,241 / m_ / year
+3 rooms;77 m_ ; Apartment;;8003 Zürich;Authentic photos provided;Virtual tours available;Secure online booking;CHF 5,960.-;CHF 929 / m_ / year
+2 rooms ;56 m_ ; Apartment;;8037 Zürich;Authentic photos provided;Virtual tours available;Secure online booking;CHF 3,800.-;CHF 814 / m_ / year
+3 rooms;81 m_ ; Apartment;;8045 Zürich;Authentic photos provided;Virtual tours available;Secure online booking;CHF 6,350.-;CHF 941 / m_ / year
+1 room;18 m_ ; Studio;;8003 Zürich;Authentic photos provided;Virtual tours available;Secure online booking;CHF 3,700.-;CHF 2,467 / m_ / year
+1 room;28 m_ ; Studio;;8003 Zürich;Authentic photos provided;Virtual tours available;Secure online booking;CHF 3,940.-;CHF 1,689 / m_ / year
+1.5 rooms ;48 m_ ; Apartment;;8004 Zürich;Authentic photos provided;Virtual tours available;Secure online booking;CHF 5,460.-;CHF 1,365 / m_ / year
+2 rooms ;52 m_ ; Apartment;;8003 Zürich;Authentic photos provided;Virtual tours available;Secure online booking;CHF 5,300.-;CHF 1,223 / m_ / year
+2 rooms ;57 m_ ; Apartment;;8004 Zürich;Authentic photos provided;Virtual tours available;Secure online booking;CHF 5,610.-;CHF 1,181 / m_ / year
+1 room;28 m_ ; Studio;;8003 Zürich;Authentic photos provided;Virtual tours available;Secure online booking;CHF 4,100.-;CHF 1,757 / m_ / year
+2 rooms ;59 m_ ; Apartment;;8032 Zürich;Authentic photos provided;Virtual tours available;Secure online booking;CHF 6,200.-;CHF 1,261 / m_ / year
+1 room ;; Apartment;Hallwylstrasse; 8004 Zürich;Spacious balcony with view;Modern kitchen amenities;Prime location in Zurich;CHF 1,350.-;—
+1 room ; 70 m_ ; Apartment;Zentralstrasse; 8003 Zürich;Central location in Zürich;Stylish modern design;Close to public transport;CHF 7,325.-;CHF 1,256 / m_ / year
+;48 m_ ; Apartment;;8055 Zürich;Authentic photos provided;Virtual tours available;Secure online booking;CHF 4,400.-;CHF 1,100 / m_ / year
+2.5 rooms;67 m_ ; Apartment;;8055 Zürich;Authentic photos provided;Virtual tours available;Secure online booking;CHF 5,910.-;CHF 1,059 / m_ / year
+1 room;33 m_ ; Studio;;8055 Zürich;Authentic photos provided;Virtual tours available;Secure online booking;CHF 4,600.-;CHF 1,673 / m_ / year
+;67 m_ ; Apartment;;8055 Zürich;Authentic photos provided;Virtual tours available;Secure online booking;CHF 6,680.-;CHF 1,196 / m_ / year
+1 room;33 m_ ; Studio;;8055 Zürich;Authentic photos provided;Virtual tours available;Secure online booking;CHF 4,430.-;CHF 1,611 / m_ / year
+1 room;33 m_ ; Studio;;8055 Zürich;Authentic photos provided;Virtual tours available;Secure online booking;CHF 4,210.-;CHF 1,531 / m_ / year
+;71 m_ ; Apartment;;8055 Zürich;Authentic photos provided;Virtual tours available;Secure online booking;CHF 6,270.-;CHF 1,060 / m_ / year
+1 room ; 49 m_ ; Apartment;Weststrasse; 8003 Zürich;Modern design throughout;Spacious balcony view;Prime location in Zürich;CHF 4,590.-;CHF 1,124 / m_ / year
+1 room ; 60 m_ ; Apartment;Rosengartenstrasse; 8037 Zürich;Stunning city views;Modern kitchen amenities;Close to public transport;CHF 6,555.-;CHF 1,311 / m_ / year
+1 room ; 75 m_ ; Apartment;Münchhaldenstrasse; 8008 Zürich;Stunning city views;Spacious balcony area;Prime location near amenities;CHF 8,775.-;CHF 1,404 / m_ / year
+1 room ; 65 m_ ; Apartment;Kirchenweg; 8008 Zürich;Modern kitchen with balcony;Bright living area with views;Prime location near amenities;CHF 9,200.-;CHF 1,698 / m_ / year
+2 rooms ; 70 m_ ; Apartment;Hofackerstrasse; 8032 Zürich;Modern kitchen with balcony;Bright living area;Prime location in Zürich;CHF 5,790.-;CHF 993 / m_ / year
+1 room ;; Apartment;Strassburgstrasse; 8004 Zürich;Modern kitchen with balcony;Bright living area;Prime location in Zürich;CHF 1,300.-;—
+2.5 rooms;65 m_ ; Apartment;;8004 Zürich;Authentic photos provided;Virtual tours available;Secure online booking;CHF 5,600.-;CHF 1,034 / m_ / year
+3 rooms;78 m_ ; Apartment;;8002 Zürich;Authentic photos provided;Virtual tours available;Secure online booking;CHF 5,730.-;CHF 882 / m_ / year
+1 room ; 70 m_ ; Apartment;Färberstrasse; 8008 Zürich;Spacious balcony with views;Modern kitchen with island;Prime location near amenities;CHF 4,890.-;CHF 838 / m_ / year
+1 room ; 55 m_ ; Apartment;Höschgasse; 8008 Zürich;Stunning city views;Modern open-plan design;Prime location in Zürich;CHF 4,490.-;CHF 980 / m_ / year
+;37 m_ ; Apartment;General-Wille-Strasse; 8002 Zürich;Modern kitchen with balcony;Bright living area;Prime location in Zürich;CHF 3,390.-;CHF 1,099 / m_ / year
+3.5 rooms;85 m_ ; Apartment;;8002 Zürich;Authentic photos provided;Virtual tours available;Secure online booking;CHF 6,960.-;CHF 983 / m_ / year
+;85 m_ ; Apartment;;8002 Zürich;Authentic photos provided;Virtual tours available;Secure online booking;CHF 7,640.-;CHF 1,079 / m_ / year
+;75 m_ ; Apartment;;8032 Zürich;Authentic photos provided;Virtual tours available;Secure online booking;CHF 4,400.-;CHF 704 / m_ / year
+1 room ;; Apartment;Gemeindestrasse; 8032 Zürich;Modern design throughout;Spacious balcony view;Prime city location;CHF 1,400.-;—
+1 room ; 63 m_ ; Apartment;Sumatrastrasse; 8006 Zürich;Modern kitchen with balcony;Bright living area;Prime location near amenities;CHF 4,990.-;CHF 950 / m_ / year
+2 rooms ; 100 m_ ; Apartment;Schipfe; 8001 Zürich;Stunning river views;Modern kitchen amenities;Central location in Zürich;CHF 6,490.-;CHF 779 / m_ / year
+2 rooms ; 80 m_ ; Apartment;Untere Zäune; 8001 Zürich;Modern kitchen with balcony;Bright living area;Prime location in Zürich;CHF 6,990.-;CHF 1,049 / m_ / year
+;25 m_ ; Apartment;Untere Zäune; 8001 Zürich;Modern design throughout;Spacious balcony view;Prime city location;CHF 2,890.-;CHF 1,387 / m_ / year
+1 room ; 57 m_ ; Apartment;Zeltweg; 8032 Zürich;Modern kitchen with balcony;Bright living area;Prime location near amenities;CHF 4,190.-;CHF 882 / m_ / year
+2 rooms ; 110 m_ ; Apartment;Niederdorfstrasse; 8001 Zürich;Central location in Niederdorf;Modern amenities throughout;Bright and spacious living area;CHF 7,490.-;CHF 817 / m_ / year
+2 rooms ; 85 m_ ; Apartment;Höschgasse; 8008 Zürich;Modern design throughout;Prime location in Zürich;Stunning city views;CHF 6,390.-;CHF 902 / m_ / year
+1 room;30 m_ ; Apartment;Hofackerstrasse; 8032 Zürich;Modern kitchen with balcony;Bright living area;Prime location in Zürich;CHF 3,290.-;CHF 1,316 / m_ / year
+2 rooms ;54 m_ ; Apartment;;8055 Zürich;Authentic photos provided;Virtual tours available;Secure online booking;CHF 5,000.-;CHF 1,111 / m_ / year
+2.5 rooms;61 m_ ; Apartment;;8003 Zürich;Authentic photos provided;Virtual tours available;Secure online booking;CHF 5,350.-;CHF 1,052 / m_ / year
+3.5 rooms;86 m_ ; Apartment;;8004 Zürich;Authentic photos provided;Virtual tours available;Secure online booking;CHF 6,440.-;CHF 899 / m_ / year
+2 rooms ;69 m_ ; Apartment;;8037 Zürich;Authentic photos provided;Virtual tours available;Secure online booking;CHF 4,660.-;CHF 810 / m_ / year
+1.5 rooms ;54 m_ ; Apartment;;8032 Zürich;Authentic photos provided;Virtual tours available;Secure online booking;CHF 4,100.-;CHF 911 / m_ / year
+2 rooms ;60 m_ ; Apartment;;8050 Zürich;Authentic photos provided;Virtual tours available;Secure online booking;CHF 4,430.-;CHF 886 / m_ / year
+4 rooms;105 m_ ; Apartment;;8048 Zürich;Authentic photos provided;Virtual tours available;Secure online booking;CHF 4,820.-;CHF 551 / m_ / year
+2.5 rooms;70 m_ ; Apartment;;8055 Zürich;Authentic photos provided;Virtual tours available;Secure online booking;CHF 6,880.-;CHF 1,179 / m_ / year
+3 rooms;74 m_ ; Apartment;;8048 Zürich;Authentic photos provided;Virtual tours available;Secure online booking;CHF 3,620.-;CHF 587 / m_ / year
+1 room;28 m_ ; Studio;;8003 Zürich;Authentic photos provided;Virtual tours available;Secure online booking;CHF 3,590.-;CHF 1,539 / m_ / year
+1 room;18 m_ ; Studio;;8003 Zürich;Authentic photos provided;Virtual tours available;Secure online booking;CHF 3,590.-;CHF 2,393 / m_ / year
+2 rooms ;52 m_ ; Apartment;;8002 Zürich;Authentic photos provided;Virtual tours available;Secure online booking;CHF 3,110.-;CHF 718 / m_ / year
+2 rooms ; 85 m_ ; Apartment;Dahliastrasse; 8008 Zürich;Sunny balcony retreat;Modern kitchen design;Prime city location;CHF 5,890.-;CHF 832 / m_ / year
+1 room ; 60 m_ ; Apartment;Hammerstrasse; 8032 Zürich;Modern design throughout;Spacious balcony view;Prime city location;CHF 4,590.-;CHF 918 / m_ / year
+1 room ; 54 m_ ; Apartment;Weststrasse; 8003 Zürich;Modern design throughout;Spacious balcony view;Prime city location;CHF 4,790.-;CHF 1,064 / m_ / year
+;90 m_ ; Apartment;;8037 Zürich;Authentic photos provided;Virtual tours available;Secure online booking;CHF 6,300.-;CHF 840 / m_ / year
+1 room;41 m_ ; Studio;;8037 Zürich;Authentic photos provided;Virtual tours available;Secure online booking;CHF 3,230.-;CHF 945 / m_ / year
+3.5 rooms;90 m_ ; Apartment;;8037 Zürich;Authentic photos provided;Virtual tours available;Secure online booking;CHF 6,480.-;CHF 864 / m_ / year
+1 room;35 m_ ; Studio;;8003 Zürich;Authentic photos provided;Virtual tours available;Secure online booking;CHF 3,160.-;CHF 1,083 / m_ / year
+3 rooms;80 m_ ; Apartment;;8004 Zürich;Authentic photos provided;Virtual tours available;Secure online booking;CHF 4,770.-;CHF 716 / m_ / year
+2.5 rooms;59 m_ ; Apartment;;8008 Zürich;Authentic photos provided;Virtual tours available;Secure online booking;CHF 5,420.-;CHF 1,102 / m_ / year
+2 rooms ;55 m_ ; Apartment;;8004 Zürich;Authentic photos provided;Virtual tours available;Secure online booking;CHF 4,730.-;CHF 1,032 / m_ / year
+2.5 rooms;59 m_ ; Apartment;;8003 Zürich;Authentic photos provided;Virtual tours available;Secure online booking;CHF 4,840.-;CHF 984 / m_ / year
+2 rooms ;53 m_ ; Apartment;;8008 Zürich;Authentic photos provided;Virtual tours available;Secure online booking;CHF 4,350.-;CHF 985 / m_ / year
+3.5 rooms;83 m_ ; Apartment;;8008 Zürich;Verified listings online;Real photos and videos;Safe rental experience;CHF 5,990.-;CHF 866 / m_ / year
+5 rooms ;123 m_ ; Apartment;;8045 Zürich;Authentic photos provided;Virtual tours available;Secure online booking;CHF 8,670.-;CHF 846 / m_ / year
+;43 m_ ; Apartment;Gujerstrasse; 8050 Zürich;Modern kitchen with balcony;Bright living area;Prime location in Zürich;CHF 2,700.-;CHF 753 / m_ / year
+3.5 rooms ;100 m_ ; Apartment;;8001 Zürich;Authentic photos provided;Virtual tours available;Safe online booking;CHF 6,890.-;CHF 827 / m_ / year
+1 room;35 m_ ; Apartment;;8032 Zürich;Authentic photos provided;Virtual tours available;Secure online booking;CHF 2,990.-;CHF 1,025 / m_ / year
+2.5 rooms;65 m_ ; Apartment;;8001 Zürich;Verified listings only;Real photos & videos;Secure online booking;CHF 3,790.-;CHF 700 / m_ / year
+2 rooms ;55 m_ ; Apartment;;8008 Zürich;Authentic photos provided;Virtual tours available;Secure online booking;CHF 4,090.-;CHF 892 / m_ / year
+2.5 rooms;78 m_ ; Apartment;;8032 Zürich;Authentic photos provided;Virtual tours available;Secure online booking;CHF 5,090.-;CHF 783 / m_ / year
+1 room;40 m_ ; Studio;;8037 Zürich;Authentic photos provided;Virtual tours available;Secure online booking;CHF 2,990.-;CHF 897 / m_ / year
+3 rooms;90 m_ ; Apartment;;8008 Zürich;Authentic photos provided;Virtual tours available;Secure online booking;CHF 5,990.-;CHF 799 / m_ / year
+2.5 rooms;75 m_ ; Apartment;;8008 Zürich;Authentic photos provided;Virtual tours available;Secure online booking;CHF 4,690.-;CHF 750 / m_ / year
+3 rooms;75 m_ ; Apartment;;8032 Zürich;Authentic photos provided;Virtual tours available;Verified listings for trust;CHF 4,790.-;CHF 766 / m_ / year
+1 room;30 m_ ; Studio;;8032 Zürich;Authentic photos provided;Virtual tours available;Secure online booking;CHF 2,790.-;CHF 1,116 / m_ / year
+1 room;16 m_ ; Apartment;;8001 Zürich;Authentic photos provided;Virtual tours available;Secure online booking;CHF 1,890.-;CHF 1,418 / m_ / year
+2 rooms ;55 m_ ; Apartment;;8001 Zürich;Authentic photos provided;Virtual tours available;Secure online booking;CHF 4,830.-;CHF 1,054 / m_ / year
+1 room;25 m_ ; Studio;;8001 Zürich;Authentic photos provided;Virtual tours available;Secure online booking;CHF 2,990.-;CHF 1,435 / m_ / year
+4.5 rooms ;120 m_ ; Apartment;;8008 Zürich;Verified listings online;Real photos and videos;Safe rental decisions;CHF 6,990.-;CHF 699 / m_ / year
+1 room;37 m_ ; Studio;;8002 Zürich;Authentic photos provided;Virtual tours available;Secure online booking;CHF 2,990.-;CHF 970 / m_ / year
+1.5 rooms ;51 m_ ; Apartment;;8003 Zürich;Authentic photos provided;Virtual tours available;Secure online booking;CHF 4,590.-;CHF 1,080 / m_ / year
+2 rooms ;54 m_ ; Apartment;;8003 Zürich;Verified listings online;Real photos and videos;Safe rental decisions;CHF 4,590.-;CHF 1,020 / m_ / year
+3 rooms;85 m_ ; Apartment;;8008 Zürich;Authentic photos provided;Virtual tours available;Secure online booking;CHF 5,590.-;CHF 789 / m_ / year
+2.5 rooms;80 m_ ; Apartment;;8001 Zürich;Authentic photos provided;Virtual tours available;Verified listings for trust;CHF 7,190.-;CHF 1,079 / m_ / year
+3 rooms;83 m_ ; Apartment;;8002 Zürich;Verified listings online;Real photos and videos;Safe rental decisions;CHF 5,090.-;CHF 736 / m_ / year
+2.5 rooms;70 m_ ; Apartment;;8008 Zürich;Authentic local photos;Virtual tours available;Secure online booking;CHF 4,590.-;CHF 787 / m_ / year
+1.5 rooms ;50 m_ ; Apartment;;8008 Zürich;Verified listings online;Real photos and videos;Safe rental decisions;CHF 3,990.-;CHF 958 / m_ / year
+2 rooms ;53 m_ ; Apartment;;8008 Zürich;Authentic photos provided;Virtual tours available;Secure online booking;CHF 4,650.-;CHF 1,053 / m_ / year
+2 rooms ;55 m_ ; Apartment;;8032 Zürich;Authentic photos provided;Virtual tours available;Secure online booking;CHF 4,150.-;CHF 905 / m_ / year
+3.5 rooms ;95 m_ ; Apartment;;8008 Zürich;Authentic photos provided;Virtual tours available;Secure online booking;CHF 5,390.-;CHF 681 / m_ / year
+1 room;35 m_ ; Apartment;;8032 Zürich;Authentic photos provided;Virtual tours available;Secure online booking;CHF 2,890.-;CHF 991 / m_ / year
+2.5 rooms;71 m_ ; Apartment;;8003 Zürich;Authentic photos provided;Virtual tours available;Safe online booking;CHF 4,890.-;CHF 826 / m_ / year
+1 room;25 m_ ; Studio;;8001 Zürich;Authentic photos provided;Virtual tours available;Secure online booking;CHF 2,490.-;CHF 1,195 / m_ / year
+1 room ; 28 m_ ; Apartment;Sumatrastrasse; 8006 Zürich;Modern kitchen with balcony;Bright living area;Close to public transport;CHF 3,064.-;CHF 1,313 / m_ / year
+2 rooms ;59 m_ ; Apartment;;8032 Zürich;Authentic photos provided;Virtual tours available;Secure online booking;CHF 4,650.-;CHF 946 / m_ / year
+2.5 roms;75 m_ ; Apartment;;8037 Zürich;Authentic photos provided;Virtual tours available;Secure online booking;CHF 4,620.-;CHF 739 / m_ / year
+2.5 rooms;64 m_ ; Apartment;;8055 Zürich;Authentic photos provided;Virtual tours available;Secure online booking;CHF 6,290.-;CHF 1,179 / m_ / year
+1 room ; 42 m_ ; Apartment;Forchstrasse; 8032 Zürich;Modern design throughout;Spacious balcony view;Prime location in Zürich;CHF 3,090.-;CHF 883 / m_ / year
+2.5 rooms;80 m_ ; Apartment;;8008 Zürich;Authentic photos provided;Virtual tours available;Secure online booking;CHF 7,640.-;CHF 1,146 / m_ / year
+2.5 rooms;60 m_ ; Apartment;;8050 Zürich;Authentic photos provided;Virtual tours available;Secure online booking;CHF 4,180.-;CHF 836 / m_ / year
+1.5 rooms ;37 m_ ; Apartment;;8004 Zürich;Authentic photos provided;Virtual tours available;Secure online booking;CHF 4,480.-;CHF 1,453 / m_ / year
+1 room;22 m_ ; Studio;;8004 Zürich;Authentic photos provided;Virtual tours available;Secure online booking;CHF 3,200.-;CHF 1,745 / m_ / year
+2.5 rooms;70 m_ ; Apartment;;8050 Zürich;Authentic photos provided;Virtual tours available;Secure online booking;CHF 4,690.-;CHF 804 / m_ / year
+2.5 rooms;69 m_ ; Apartment;;8050 Zürich;Authentic photos provided;Virtual tours available;Secure online booking;CHF 4,740.-;CHF 824 / m_ / year
+1.5 rooms ;46 m_ ; Apartment;;8055 Zürich;Authentic photos provided;Virtual tours available;Secure online booking;CHF 6,050.-;CHF 1,578 / m_ / year
+4.5 rooms ;106 m_ ; Apartment;;8006 Zürich;Authentic photos provided;Virtual tours available;Secure online booking;CHF 5,930.-;CHF 671 / m_ / year
+3 rooms;78 m_ ; Apartment;;8008 Zürich;Authentic photos provided;Virtual tours available;Secure online booking;CHF 5,690.-;CHF 875 / m_ / year
+3 rooms;78 m_ ; Apartment;;8003 Zürich;Authentic photos provided;Virtual tours available;Secure online booking;CHF 5,690.-;CHF 875 / m_ / year
+3.5 rooms ;90 m_ ; Apartment;;8037 Zürich;Authentic photos provided;Virtual tours available;Secure online booking;CHF 3,860.-;CHF 515 / m_ / year
+3.5 rooms ;90 m_ ; Apartment;;8008 Zürich;Authentic photos provided;Virtual tours available;Verified listings only;CHF 5,790.-;CHF 772 / m_ / year
+2.5 rooms;59 m_ ; Apartment;;8008 Zürich;Authentic photos provided;Virtual tours available;Secure online booking;CHF 4,190.-;CHF 852 / m_ / year
+3 rooms;78 m_ ; Apartment;;8008 Zürich;Verified listings online;Real photos and videos;Safe rental decisions;CHF 4,390.-;CHF 675 / m_ / year
+1.5 rooms ;55 m_ ; Apartment;;8008 Zürich;Authentic photos provided;Virtual tours available;Secure online booking;CHF 3,190.-;CHF 696 / m_ / year
+1 room ; 29 m_ ; Apartment;Talstrasse 20; 8001 Zürich;Central location in Zurich;Well-equipped kitchen area;Cozy shared waiting room;CHF 850.-;CHF 352 / m_ / year
+4 rooms ; 120 m_ ; Apartment;Ottenbergstrasse; 8049 Zürich;Modern kitchen with balcony;Bright living area;Prime location in Zürich;CHF 7,440.-;CHF 744 / m_ / year
+2 rooms ; 85 m_ ; Apartment;Höschgasse; 8008 Zürich;Stunning city views;Modern kitchen design;Prime location in Zürich;CHF 6,390.-;CHF 902 / m_ / year
+1 room ; 75 m_ ; Apartment;Mainaustrasse; 8008 Zürich;Modern design throughout;Spacious balcony view;Prime location in Zürich;CHF 5,490.-;CHF 878 / m_ / year
+1 room ; 56 m_ ; Apartment;Seefeldstrasse; 8008 Zürich;Stunning city views;Modern kitchen amenities;Close to public transport;CHF 4,799.-;CHF 1,028 / m_ / year
+2.5 rooms;66 m_ ; Apartment;;8002 Zürich;Authentic photos provided;Virtual tours available;Secure online booking;CHF 4,980.-;CHF 905 / m_ / year
+3 rooms ;85 m_ ; Apartment;;8055 Zürich;Authentic photos provided;Virtual tours available;Secure online booking;CHF 7,860.-;CHF 1,110 / m_ / year
+4.5 rooms ;128 m_ ; Apartment;;8044 Zürich;Authentic photos provided;Virtual tours available;Secure online booking;CHF 9,000.-;CHF 844 / m_ / year
+1 room;35 m_ ; Studio;;8004 Zürich;Authentic photos provided;Virtual tours available;Secure online booking;CHF 3,910.-;CHF 1,341 / m_ / year
+1 room;28 m_ ; Studio;;8003 Zürich;Authentic photos provided;Virtual tours available;Secure online booking;CHF 3,540.-;CHF 1,517 / m_ / year
+4 rooms;92 m_ ; Apartment;;8045 Zürich;Authentic photos provided;Virtual tours available;Secure online booking;CHF 6,980.-;CHF 910 / m_ / year
+;30 m_ ; Apartment;Mürtschenstrasse; 8048 Zürich;Modern design throughout;Spacious balcony view;Prime city location;CHF 2,700.-;CHF 1,080 / m_ / year
+2.5 rooms ; 55 m_ ; Apartment;Blauäcker 10; 8051 Zürich;Spacious balcony for relaxation;1 min walk to tram stops;Close to shops and amenities;CHF 1,820.-;CHF 397 / m_ / year
+1 room ; 25 m_ ; Apartment;Steinstrasse; 8003 Zürich;Spacious balcony with views;Modern kitchen with island;Prime location in Zurich;CHF 1,995.-;CHF 958 / m_ / year
+2 rooms ;48 m_ ; Apartment;;8006 Zürich;Authentic photos provided;Virtual tours available;Verified listings for trust;CHF 4,280.-;CHF 1,070 / m_ / year
+2 rooms ;40 m_ ; Apartment;;8006 Zürich;Authentic photos provided;Virtual tours available;Secure online booking;CHF 3,040.-;CHF 912 / m_ / year
+2.5 rooms;55 m_ ; Apartment;;8003 Zürich;Authentic photos provided;Virtual tours available;Verified listings only;CHF 3,910.-;CHF 853 / m_ / year
+3 rooms ;70 m_ ; Apartment;;8006 Zürich;Authentic photos provided;Virtual tours available;Secure online booking;CHF 4,730.-;CHF 811 / m_ / year
+2.5 rooms;70 m_ ; Apartment;;8006 Zürich;Authentic photos provided;Virtual tours available;Secure online booking;CHF 4,930.-;CHF 845 / m_ / year
+1 room ;24 m_ ; Studio;;8006 Zürich;Authentic photos provided;Virtual tours available;Secure online booking;CHF 3,450.-;CHF 1,725 / m_ / year
+1 room ;33 m_ ; Studio;;8006 Zürich;Authentic photos provided;Virtual tours available;Secure online booking;CHF 2,930.-;CHF 1,065 / m_ / year
+2 rooms ;69 m_ ; Apartment;;8050 Zürich;Authentic photos provided;Virtual tours available;Secure online booking;CHF 3,730.-;CHF 649 / m_ / year
+1 room ;30 m_ ; Apartment;;8005 Zürich;Authentic photos provided;Virtual tours available;Secure online booking;CHF 4,400.-;CHF 1,760 / m_ / year
+2 rooms ;55 m_ ; Apartment;;8008 Zürich;Verified listings online;Real photos and videos;Safe rental decisions;CHF 6,990.-;CHF 1,525 / m_ / year
+1 room ; 50 m_ ; Apartment;Seebacherstrasse; 8052 Zürich;Stunning lake views;Modern kitchen amenities;Spacious balcony retreat;CHF 2,470.-;CHF 593 / m_ / year
+1.5 rooms ; 35 m_ ; Apartment;Waidstrasse 38; 8037 Zürich;Quiet courtyard view;Private green terrace;Fully furnished & equipped;CHF 1,400.-;CHF 480 / m_ / year
+3 rooms ; 90 m_ ; Apartment;Münsterhof 6; 8001 Zürich;Spacious loggia for relaxation;High-end Miele kitchen;Quiet location near landmarks;CHF 2,850.-;CHF 380 / m_ / year
+2 rooms ;72 m_ ; Apartment;;8002 Zürich;Authentic photos provided;Virtual tours available;Secure online booking;CHF 5,300.-;CHF 883 / m_ / year
+1.5 rooms ;32 m_ ; Apartment;;8048 Zürich;Authentic photos provided;Virtual tours available;Secure online booking;CHF 3,800.-;CHF 1,425 / m_ / year
+2 rooms ;59 m_ ; Apartment;;8048 Zürich;Authentic photos provided;Virtual tours available;Secure online booking;CHF 3,850.-;CHF 783 / m_ / year
+2 rooms ;54 m_ ; Apartment;;8006 Zürich;Authentic photos provided;Virtual tours available;Secure online booking;CHF 4,240.-;CHF 942 / m_ / year
+2.5 rooms ;65 m_ ; Apartment;;8006 Zürich;Authentic photos provided;Virtual tours available;Secure online booking;CHF 4,890.-;CHF 903 / m_ / year
+3.5 rooms ;102 m_ ; Apartment;;8005 Zürich;Authentic photos provided;Virtual tours available;Secure online booking;CHF 6,910.-;CHF 813 / m_ / year
+2.5 rooms ;79 m_ ; Apartment;;8048 Zürich;Authentic photos provided;Virtual tours available;Secure online booking;CHF 3,630.-;CHF 551 / m_ / year
+2.5 rooms ;74 m_ ; Apartment;;8048 Zürich;Authentic photos provided;Virtual tours available;Secure online booking;CHF 4,720.-;CHF 765 / m_ / year
+3 rooms ; 100 m_ ; Apartment;Luegete; 8053 Zürich;Modern kitchen with balcony;Bright living area;Prime city location;CHF 6,500.-;CHF 780 / m_ / year
+2 rooms ; 50 m_ ; Furnished apartment;Baurstrasse 29; 8008 Zürich;Stunning 70m_ rooftop terrace;Bright with floor-to-ceiling windows;Modern design with high-end finishes;CHF 6,790.-;CHF 1,630 / m_ / year
+2 rooms ; 60 m_ ; Furnished apartment;Baurstrasse 29; 8008 Zürich;70 m_ rooftop terrace;Elegant EAST style design;Heart of Seefeld location;CHF 7,390.-;CHF 1,478 / m_ / year
+2 rooms ; 78 m_ ; Apartment;Helenastrasse; 8008 Zürich;Sunny balcony retreat;Modern kitchen design;Prime city location;CHF 6,500.-;CHF 1,000 / m_ / year
+2.5 rooms ; 55 m_ ; Furnished apartment;Hönggerstrasse 40; 8037 Zürich;Spacious balcony for relaxation;Modern kitchen with high-end appliances;All-inclusive services provided;CHF 3,990.-;CHF 871 / m_ / year
+3.5 rooms ; 80 m_ ; Apartment;;8003 Zürich;Fully furnished for comfort;Fast Wi-Fi and Smart-TV;Central location with parking;CHF 4,613.-;CHF 692 / m_ / year
+2 rooms ; 80 m_ ; Apartment;Austrasse; 8045 Zürich;Modern kitchen with balcony;Bright living area;Prime city location;CHF 3,100.-;CHF 465 / m_ / year
+1 room ; 40 m_ ; Apartment;Affolternstrasse; 8050 Zürich;Spacious balcony with views;Modern kitchen with island;Bright living area with light;CHF 2,600.-;CHF 780 / m_ / year
+1 room ; 87 m_ ; Apartment;Badenerstrasse; 8004 Zürich;Modern kitchen with balcony;Bright living area;Prime city location;CHF 5,560.-;CHF 767 / m_ / year
+;40 m_ ; Apartment;Badenerstrasse; 8004 Zürich;Modern kitchen amenities;Sunny balcony retreat;Prime city location;CHF 3,590.-;CHF 1,077 / m_ / year
+;45 m_ ; Apartment;Badenerstrasse; 8004 Zürich;Spacious balcony with views;Modern kitchen with island;Prime location in Zurich;CHF 3,590.-;CHF 957 / m_ / year
+1 room ; 60 m_ ; Apartment;Badenerstrasse; 8004 Zürich;Modern kitchen with balcony;Bright living area;Prime city location;CHF 4,150.-;CHF 830 / m_ / year
+2 rooms ; 75 m_ ; Apartment;Zollstrasse; 8005 Zürich;Modern kitchen with balcony;Bright living area;Prime city location;CHF 4,990.-;CHF 798 / m_ / year
+5 rooms ;; Apartment;Carmenstrasse 35; 8032 Zürich;Stunning lake view terrace;High-end Herzog kitchen;Spacious balconies for relaxation;CHF 6,800.-;—
+3 rooms ;75 m_ ; Apartment;;8055 Zürich;Authentic photos & videos;Secure online viewing;Trusted rental process;CHF 4,290.-;CHF 686 / m_ / year
+2 rooms ;55 m_ ; Apartment;;8003 Zürich;Authentic photos & videos;Verified listings for trust;Easy online viewing process;CHF 4,000.-;CHF 873 / m_ / year
+3 rooms ;84 m_ ; Apartment;;8002 Zürich;Authentic photos provided;Online viewing available;Secure rental process;CHF 7,600.-;CHF 1,086 / m_ / year
+1 room ;18 m_ ; Studio;;8003 Zürich;Authentic photos provided;Online viewing available;Secure rental process;CHF 2,570.-;CHF 1,713 / m_ / year
+1 room ;18 m_ ; Studio;;8003 Zürich;Authentic photos & videos;Secure online booking;Trusted property verification;CHF 2,530.-;CHF 1,687 / m_ / year
+3.5 rooms ;76 m_ ; Apartment;;8002 Zürich;Authentic photos provided;Online viewing available;Secure rental process;CHF 5,240.-;CHF 827 / m_ / year
+3 rooms ;66 m_ ; Apartment;;8045 Zürich;Authentic photos & videos;Verified listings for trust;Easy online viewing process;CHF 3,780.-;CHF 687 / m_ / year
+2.5 rooms ;43 m_ ; Apartment;;8038 Zürich;Authentic photos provided;Online viewing available;Secure rental process;CHF 2,670.-;CHF 745 / m_ / year
+3 rooms ;63 m_ ; Apartment;;8003 Zürich;Authentic photos provided;Online viewing available;Verified listings only;CHF 3,390.-;CHF 646 / m_ / year
+4 rooms ;103 m_ ; Apartment;;8050 Zürich;Authentic photos provided;Online viewing available;Secure rental process;CHF 2,800.-;CHF 326 / m_ / year
+1 room ;18 m_ ; Studio;;8003 Zürich;Authentic photos & videos;Verified listings for trust;Easy online booking process;CHF 2,570.-;CHF 1,713 / m_ / year
+1 room ;18 m_ ; Studio;;8003 Zürich;Authentic photos & videos;Secure online booking;Verified property listings;CHF 2,780.-;CHF 1,853 / m_ / year
+3.5 rooms ; 114 m_ ; Furnished apartment;;8041 Zürich;Central, desirable location;Sunny balcony with a view;Fully furnished & modern;CHF 4,130.-;CHF 435 / m_ / year
+2.5 rooms ; 65 m_ ; Apartment;Augustinergasse 15; 8001 Zürich;Modern kitchen & Miele appliances;Central location near Bahnhofstrasse;Tram stop at doorstep;CHF 3,530.-;CHF 652 / m_ / year
+3.5 rooms ; 95 m_ ; Apartment;;8032 Zürich;Central location, ideal;Timeless elegance;Garage and elevator;CHF 3,940.-;CHF 498 / m_ / year
+2.5 rooms ; 85 m_ ; Apartment;Anemonenstrasse 40; 8047 Zürich;Spacious living area 41.3m_;Modern kitchen with dishwasher;Quiet park-like surroundings;CHF 2,623.-;CHF 370 / m_ / year
+2 rooms ;; Apartment;Bremgartnerstrasse 35; 8003 Zürich;New kitchen & bathroom;Spacious rooms with laminate;Near public transport;CHF 2,390.-;—
+3.5 rooms ; 89 m_ ; Apartment;Schöntalstrasse 20; 8004 Zürich;Central location;Modern amenities;Bright and airy;On request;—
+1.5 rooms ; 48 m_ ; Penthouse;Haldenstrasse 169; 8055 Zürich;Parquet floors throughout;Modern kitchen & bathroom;Near public transport & shops;CHF 2,310.-;CHF 578 / m_ / year
+3.5 rooms ; 89 m_ ; Penthouse;Haldenstrasse 167; 8055 Zürich;Modern bathroom;Parquet floors;Open kitchen;CHF 4,230.-;CHF 568 / m_ / year
+4 rooms ; 92 m_ ; Apartment;Calandastrasse 9; 8048 Zürich;Elegant interior;Modern kitchen;Easy access to transport;CHF 2,790.-;CHF 364 / m_ / year
+3.5 rooms ; 76 m_ ; Apartment;Forchstrasse 347; 8008 Zürich;Bright rooms;Parquet/Laminate floors;Pleasant location;CHF 2,790.-;CHF 441 / m_ / year
+1.5 rooms ;; Furnished apartment;Schwendenweg 6; 8003 Zürich;Quiet location near tram;Modern kitchen & bathroom;Fully renovated in 2023;CHF 2,000.-;—
+3.5 rooms ; 115 m_ ; Apartment;;8049 Zürich;Quiet natural surroundings;Close to public transport;Includes garage and utilities;CHF 3,326.-;CHF 347 / m_ / year
+2.5 rooms ; 83 m_ ; Apartment;Pfingstweidstrasse 106c; 8005 Zürich;Open, elegant kitchen;Bathroom with tub and window;Garden terrace & rooftop pool;CHF 3,670.-;CHF 531 / m_ / year
+3.5 rooms ; 83 m_ ; Apartment;Tramstrasse 3; 8050 Zürich;Balcony for sunny moments;Spacious, well-equipped kitchen;Easy access to transport;CHF 2,620.-;CHF 379 / m_ / year
+4 rooms ; 102 m_ ; Apartment;Hornbachstrasse 56; 8008 Zürich;Spacious living and dining area;Modern kitchen with dishwasher;Pets allowed;CHF 3,800.-;CHF 447 / m_ / year
+5.5 rooms ; 121 m_ ; Duplex;Universitätstrasse 33; 8006 Zürich;Modern kitchen with island;New wood parquet flooring;Balcony/Veranda;CHF 5,830.-;CHF 578 / m_ / year
+2 rooms ; 57 m_ ; Apartment;Strassburgstrasse 17; 8004 Zürich;Superb central location;Modern kitchen & bathroom;Long balcony, elevator;CHF 2,590.-;CHF 545 / m_ / year
+3 rooms ; 68 m_ ; Apartment;Waldstrasse 15; 8046 Zürich;Quiet, green location;Built-in wardrobe in the entrance;Bathroom with window;CHF 1,772.-;CHF 313 / m_ / year
+1.5 rooms ; 49 m_ ; Apartment;Haldenstrasse 169; 8055 Zürich;Modern and central location;High-quality finishes;Convenient transport links;CHF 2,470.-;CHF 605 / m_ / year
+2.5 rooms ; 80 m_ ; Apartment;;8048 Zürich;Great public transport links;Sunny balcony;All utilities included;CHF 2,050.-;CHF 308 / m_ / year
+3.5 rooms ; 105 m_ ; Apartment;;8005 Zürich;Charming balcony;Fully equipped kitchen;Near highways;CHF 3,960.-;CHF 453 / m_ / year
+3 rooms ; 42 m_ ; Apartment;Universitätstrasse 33; 8006 Zürich;Newly renovated;Private entrance;Central location;CHF 2,380.-;CHF 680 / m_ / year
+4.5 rooms ; 103 m_ ; Duplex;Universitätstrasse 33; 8006 Zürich;Island kitchen;New wood parquet;Spacious balcony;CHF 4,795.-;CHF 559 / m_ / year
+3 rooms ; 60 m_ ; Apartment;Universitätstrasse 33; 8006 Zürich;19m_ terrace;Newly renovated;Central location;CHF 3,520.-;CHF 704 / m_ / year
+1.5 rooms ; 21 m_ ; Apartment;Dienerstrasse 8; 8004 Zürich;Modern kitchen with DW;High-quality parquet floor;Spacious built-in wardrobe;CHF 1,840.-;CHF 1,051 / m_ / year
+1 room ;; Apartment;Hönggerstrasse; 8037 Zürich;Sunny balcony retreat;Modern kitchen design;Prime city location;CHF 1,399.-;—
+3.5 rooms ; 72 m_ ; Loft;;8045 Zürich;High ceilings & natural light;Cozy balcony for relaxation;Private 45m_ rooftop terrace;CHF 3,950.-;CHF 658 / m_ / year
+2.5 rooms ; 72 m_ ; Apartment;Fellenbergstrasse 289; 8047 Zürich;Parquet flooring throughout;Balcony included;Cellar compartment;CHF 2,088.-;CHF 348 / m_ / year
+2.5 rooms ; 71 m_ ; Apartment;Lindenstrasse 21; 8008 Zürich;Minergie standard finish;Two stunning rooftop terraces;Stylish Pandomo flooring;CHF 3,820.-;CHF 646 / m_ / year
+2.5 rooms ; 61 m_ ; Penthouse;;8050 Zürich;Top floor location;Fantastic roof terrace;Modern, high-quality finishes;CHF 3,275.-;CHF 644 / m_ / year
+3.5 rooms ; 75 m_ ; Apartment;Feldblumenweg 33; 8048 Zürich;Quiet residential area;Parquet floors;Balcony mezzanine;CHF 2,368.-;CHF 379 / m_ / year
+2.5 rooms ; 47 m_ ; Apartment;;8041 Zürich;Newly furnished space;Quiet green surroundings;Close to public transport;CHF 2,375.-;CHF 606 / m_ / year
+4.5 rooms ; 116 m_ ; Apartment;Hagenholzstrasse 82; 8050 Zürich;Bright, spacious rooms;Modern kitchen with dishwasher;Close to public transport;CHF 3,300.-;CHF 341 / m_ / year
+2.5 rooms ; 45 m_ ; Furnished apartment;;8006 Zürich;Modern kitchen design;Quiet courtyard bedroom;Includes utilities & internet;CHF 2,484.-;CHF 662 / m_ / year
+4.5 rooms ; 107 m_ ; Apartment;;8055 Zürich;Stunning city panorama;Two spacious balconies;Open layout design;CHF 4,800.-;CHF 538 / m_ / year
+4.5 rooms ; 113 m_ ; Apartment;Tramstrasse 71; 8050 Zürich;Modern kitchen with storage;Bright dining area;Relaxing balcony space;CHF 3,750.-;CHF 398 / m_ / year
+3 rooms ; 128 m_ ; Loft;;8002 Zürich;Urban charm and modern design;Large windows overlooking the Sihl;Private courtyard (32 m_);CHF 5,850.-;CHF 548 / m_ / year
+3 rooms ; 72 m_ ; Penthouse;;8002 Zürich;Two large terraces;Quiet, central location;Close to shops;CHF 3,900.-;CHF 650 / m_ / year
+3.5 rooms ; 100 m_ ; Furnished apartment;;8057 Zürich;Beautiful old building;Shared garden access;All utilities included;CHF 4,374.-;CHF 525 / m_ / year
+4.5 rooms ; 109 m_ ; Apartment;Schaffhauserstrasse 11; 8006 Zürich;Spacious living area;Modern kitchen amenities;Terrace for relaxation;CHF 3,470.-;CHF 382 / m_ / year
+4.5 rooms ; 122 m_ ; Apartment;Flüelastrasse 31; 8047 Zürich;Spacious oak parquet floors;Large loggia for relaxation;Quiet park-like surroundings;CHF 3,220.-;CHF 317 / m_ / year
+3.5 rooms ; 103 m_ ; Apartment;Allmendstrasse 158; 8041 Zürich;Elegant oak parquet floors;Open kitchen with appliances;Balcony and loggia space;CHF 3,400.-;CHF 396 / m_ / year
+1 room ; 28 m_ ; Apartment;Grubenackerstrasse 71; 8052 Zürich;Spacious open kitchen;Large outdoor area;Modern bathroom design;CHF 1,880.-;CHF 806 / m_ / year
+3 rooms ; 64 m_ ; Apartment;Im Brächli 25; 8053 Zürich;Cozy balcony for relaxation;Quiet green neighborhood;Modern kitchen with dishwasher;CHF 1,929.-;CHF 362 / m_ / year
+8.5 rooms ; 250 m_ ; Duplex;;8006 Zürich;Stunning city views;Sunny balcony & terrace;Modern open kitchen;CHF 8,925.-;CHF 428 / m_ / year
+3.5 rooms ; 94 m_ ; Apartment;;8041 Zürich;Spacious open kitchen;Quiet central location;Minergie heating system;CHF 3,400.-;CHF 434 / m_ / year
+3.5 rooms ; 90 m_ ; Apartment;;8047 Zürich;80m_ sunny terrace;Lift access to 4th floor;Pet-friendly for cats;CHF 1,919.-;CHF 256 / m_ / year
+3.5 rooms ; 120 m_ ; Duplex;Buckhauserstrasse 45; 8048 Zürich;Elegant oak parquet floors;Spacious loggia for relaxation;Minergie certified for comfort;CHF 4,300.-;CHF 430 / m_ / year
+3.5 rooms ; 75 m_ ; Furnished apartment;;8005 Zürich;Spacious living kitchen;Two balconies & terrace;Ideal for families with kids;CHF 5,880.-;CHF 941 / m_ / year
+1 room ; 22 m_ ; Apartment;;8049 Zürich;Pet-friendly living;Modern kitchen amenities;Excellent transport links;CHF 1,490.-;CHF 813 / m_ / year
+3.5 rooms ; 97 m_ ; Apartment;Buckhauserstrasse 45; 8048 Zürich;Elegant oak parquet floors;Spacious loggia for relaxation;Minergie certified for comfort;CHF 3,617.-;CHF 447 / m_ / year
+2.5 rooms ; 48 m_ ; Apartment;Anemonenstrasse 42; 8047 Zürich;Stylish parquet flooring;Open modern kitchen;Quiet park-like setting;CHF 2,390.-;CHF 598 / m_ / year
+1.5 rooms ; 65 m_ ; Apartment;;8048 Zürich;Central location with transport;Spacious terrace for relaxation;Includes utilities and internet;CHF 2,813.-;CHF 519 / m_ / year
+2.5 rooms ; 42 m_ ; Apartment;;8038 Zürich;Sunny balcony with views;Quiet neighborhood charm;Close to public transport;CHF 2,750.-;CHF 786 / m_ / year
+4.5 rooms ; 102 m_ ; Duplex;;8044 Zürich;Spacious living area with fireplace;Large garden with winter garden;High-quality renovation throughout;CHF 3,400.-;CHF 400 / m_ / year
+2.5 rooms ; 54 m_ ; Apartment;Müllerstrasse 57; 8004 Zürich;Parisian Chic furnishings;Fully furnished & equipped;Co-working lounges included;CHF 3,980.-;CHF 884 / m_ / year
+3.5 rooms ; 69 m_ ; Apartment;Franklinstrasse 20; 8050 Zürich;Modern kitchen with ceramic;Spacious bathroom with window;Parkett flooring throughout;CHF 2,492.-;CHF 433 / m_ / year
+3.5 rooms ; 89 m_ ; Apartment;Bellariarain 8; 8038 Zürich;Close to Lake Zurich;Spacious balcony retreat;Modern bathroom amenities;CHF 3,770.-;CHF 508 / m_ / year
+3.5 rooms ; 83 m_ ; Apartment;Felsenrainstrasse 79; 8052 Zürich;Bright extension with bay window;Beech parquet flooring;Modern kitchen with dishwasher;CHF 2,446.-;CHF 354 / m_ / year
+3.5 rooms ; 92 m_ ; Apartment;Tuchmacherstrasse 36; 8041 Zürich;Elegant oak parquet floors;Spacious loggia for relaxation;Direct S-Bahn access nearby;CHF 3,058.-;CHF 399 / m_ / year
+2.5 rooms ; 63 m_ ; Apartment;Karstlernstrasse 12; 8048 Zürich;Bright and spacious rooms;Excellent public transport;Quiet green neighborhood;CHF 2,000.-;CHF 381 / m_ / year
+2.5 rooms ; 69 m_ ; Apartment;Magnusstrasse 4; 8004 Zürich;Central location with amenities;Easy-care ceramic flooring;Practical kitchen with window;CHF 2,720.-;CHF 473 / m_ / year
+3.5 rooms ; 80 m_ ; Apartment;;8004 Zürich;Stunning city views;Shared garden access;Modern design features;CHF 2,990.-;CHF 449 / m_ / year
+3 rooms ; 91 m_ ; Apartment;Baslerstrasse 77; 8048 Zürich;Stunning city views;Smart home technology;Natural stone flooring;CHF 4,250.-;CHF 560 / m_ / year
+1 room ; 23 m_ ; Apartment;Baurstrasse 29; 8008 Zürich;Private terrace with greenery;Modern Scandi Chic design;All-inclusive utilities included;CHF 2,990.-;CHF 1,560 / m_ / year
+1.5 rooms ; 30 m_ ; Furnished apartment;Baurstrasse 29; 8008 Zürich;Designer kitchen with balcony;Open layout for comfort;All-inclusive services offered;CHF 3,890.-;CHF 1,556 / m_ / year
+3.5 rooms ; 120 m_ ; Furnished apartment;Hammerstrasse 43; 8008 Zürich;Private entrance for privacy;Cozy fireplace for winter;Stylish outdoor seating area;CHF 7,490.-;CHF 749 / m_ / year
+1.5 rooms ; 30 m_ ; Furnished apartment;Baurstrasse 29; 8008 Zürich;Designer kitchen with appliances;Bright living area with parquet;All-inclusive services provided;CHF 3,790.-;CHF 1,516 / m_ / year
+1 room ; 25 m_ ; Furnished apartment;Baurstrasse 29; 8008 Zürich;Stylish Scandi Chic design;All-inclusive utilities;Prime location near boutiques;CHF 3,490.-;CHF 1,675 / m_ / year
+3 rooms ; 78 m_ ; Furnished apartment;Helenastrasse 11; 8008 Zürich;Bright living area with balcony;High-end kitchen appliances;All-inclusive services provided;CHF 5,190.-;CHF 798 / m_ / year
+3.5 rooms ; 64 m_ ; Apartment;;8055 Zürich;Spacious rooms with light;Large kitchen for cooking;Generous balcony with views;CHF 1,995.-;CHF 374 / m_ / year
+2 rooms ; 55 m_ ; Furnished apartment;;8038 Zürich;Bright and cozy living space;Shared garden access;Close to public transport;CHF 2,375.-;CHF 518 / m_ / year
+2.5 rooms ;; Apartment;;8052 Zürich;Bright living area with balcony;Modern kitchen with appliances;Elegant bathroom with shower;CHF 2,595.-;—
+3.5 rooms ; 87 m_ ; Apartment;;8050 Zürich;Stunning panoramic views;Modern open kitchen;Controlled ventilation system;CHF 3,590.-;CHF 495 / m_ / year
+4 rooms ; 128 m_ ; Apartment;;8002 Zürich;Historic building charm;Spacious 3m high ceilings;Quiet courtyard access;CHF 5,350.-;CHF 502 / m_ / year
+1 room ;; Apartment;Dörflistrasse; 8050 Zürich;Modern kitchen with balcony;Bright living area;Prime location near amenities;CHF 1,300.-;—
+3.5 rooms ; 70 m_ ; Penthouse;;8008 Zürich;Spacious terrace & balcony;Bright, airy living spaces;Cozy fireplace in living room;CHF 3,697.-;CHF 634 / m_ / year
+3.5 rooms ; 100 m_ ; Apartment;Hagenholzstrasse 76; 8050 Zürich;Spacious, bright rooms;Modern kitchen with dishwasher;Near Glattpark;CHF 2,970.-;CHF 356 / m_ / year
+1 room ; 15 m_ ; Furnished apartment;Schaffhauserstrasse 137; 8057 Zürich;Free Wi-Fi included;All costs covered;Pets allowed on request;CHF 1,980.-;CHF 1,584 / m_ / year
+3.5 rooms ; 87 m_ ; Apartment;Schaffhauserstrasse 615; 8052 Zürich;Bright open kitchen;Pet-friendly living;Central location near shops;CHF 2,420.-;CHF 334 / m_ / year
+2.5 rooms ; 56 m_ ; Apartment;Anemonenstrasse 40; 8047 Zürich;Spacious terrace 24.2m2;Stylish parquet flooring;Quiet park-like surroundings;CHF 2,382.-;CHF 510 / m_ / year
+2 rooms ; 55 m_ ; Apartment;;8002 Zürich;Private garden seating area;Fully equipped kitchen;Close to public parking;CHF 1,920.-;CHF 419 / m_ / year
+2.5 rooms ; 50 m_ ; Furnished apartment;;8055 Zürich;Stunning city views;Quiet green surroundings;Close to public transport;CHF 2,018.-;CHF 484 / m_ / year
+2.5 rooms ; 55 m_ ; Apartment;Flurstrasse 53; 8048 Zürich;Spacious living room;Separate kitchen with window;Close to Letzipark shopping;CHF 1,460.-;CHF 319 / m_ / year
+3.5 rooms ; 60 m_ ; Apartment;;8032 Zürich;Quiet location near center;Includes private parking;Lift access to the apartment;CHF 3,490.-;CHF 698 / m_ / year
+5 rooms ; 135 m_ ; Apartment;Imbisbühlstrasse 100; 8049 Zürich;Bright closed kitchen;Balcony with views;Close to tram station;CHF 3,582.-;CHF 318 / m_ / year
+2.5 rooms ; 63 m_ ; Apartment;Südstrasse 3; 8008 Zürich;Spacious balcony for relaxation;Modern kitchen with dishwasher;Prime location near Zürichsee;CHF 2,839.-;CHF 541 / m_ / year
+3 rooms ; 80 m_ ; Apartment;Forchstrasse 22; 8008 Zürich;Central Zurich location;Bright modern kitchen;Charming parquet flooring;CHF 3,980.-;CHF 597 / m_ / year
+1 room ; 29 m_ ; Apartment;Klausstrasse 44; 8008 Zürich;Modernized bathroom;Separate kitchen;Close to Lake Zurich;CHF 1,391.-;CHF 576 / m_ / year
+5.5 rooms ; 115 m_ ; Duplex;Elsastrasse 16; 8004 Zürich;Modern kitchen with stone tops;Private balcony for relaxation;Ideal for living and working;CHF 3,950.-;CHF 412 / m_ / year
+3 rooms ;; Apartment;Forchstrasse 359; 8008 Zürich;Restored historic features;Elegant oak herringbone floor;Modern amenities with charm;CHF 4,360.-;—
+4 rooms ;; Apartment;Forchstrasse 359; 8008 Zürich;Historic building charm;Bright open spaces;Private balcony view;CHF 5,460.-;—
+2 rooms ; 70 m_ ; Apartment;Baslerstrasse 77; 8048 Zürich;Natural stone flooring;Smart Place technology;Close to shopping & nature;CHF 3,193.-;CHF 547 / m_ / year
+2 rooms ; 80 m_ ; Apartment;Austrasse; 8045 Zürich;Bright open living space;Modern kitchen amenities;Close to public transport;CHF 3,250.-;CHF 488 / m_ / year
+4.5 rooms ; 147 m_ ; Apartment;Löwenstrasse 16; 8001 Zürich;Spacious rooftop terrace;Modern kitchen amenities;Central location near shops;CHF 7,500.-;CHF 612 / m_ / year
+1.5 rooms ; 42 m_ ; Apartment;;8044 Zürich;Private garden retreat;Fully equipped kitchen;Optional furnished move-in;CHF 2,100.-;CHF 600 / m_ / year
+2.5 rooms ; 90 m_ ; Apartment;Staffelstrasse 5; 8045 Zürich;Sunny loggia for relaxation;Modern kitchen with appliances;Feng Shui courtyard oasis;CHF 3,260.-;CHF 435 / m_ / year
+3.5 rooms ; 90 m_ ; Furnished apartment;;8002 Zürich;Two modern bathrooms;Private balcony space;Quiet neighborhood vibes;CHF 2,988.-;CHF 398 / m_ / year
+4.5 rooms ; 132 m_ ; Apartment;Hagenholzstrasse 70; 8050 Zürich;Bright, spacious rooms;Modern kitchen with dishwasher;Close to public transport;CHF 3,730.-;CHF 339 / m_ / year
+2.5 rooms ; 78 m_ ; Penthouse;Buckhauserstrasse 49; 8048 Zürich;Spacious terrace for relaxation;Modern kitchen with dishwasher;Minergie certified for comfort;CHF 3,075.-;CHF 473 / m_ / year
+1 room ;130 m_ ; Loft;Schärenmoosstrasse 80; 8052 Zürich;Unique industrial design;Large windows for light;Flexible open floor plan;CHF 2,950.-;CHF 272 / m_ / year
+4 rooms ; 120 m_ ; Apartment;Spyristrasse 20; 8044 Zürich;Bright living areas;Private balcony access;Convenient public transport;CHF 4,250.-;CHF 425 / m_ / year
+3.5 rooms ; 73 m_ ; Apartment;Hohlstrasse 27; 8004 Zürich;Bright living room;Modern open kitchen;Close to public transport;CHF 3,410.-;CHF 561 / m_ / year
+3 rooms ; 97 m_ ; Apartment;Rennweg 43; 8001 Zürich;Stunning city view balconies;Modern kitchen with oven;Prime location near shops;CHF 5,780.-;CHF 715 / m_ / year
+3.5 rooms ; 97 m_ ; Apartment;Pfingstweidstrasse 106a; 8005 Zürich;Open living space design;Spacious loggia for relaxation;Modern kitchen with storage;CHF 4,115.-;CHF 509 / m_ / year
+2.5 rooms ; 62 m_ ; Apartment;Eugen-Huber-Strasse 115; 8048 Zürich;Bright oak parquet floors;Sunny balcony for relaxation;Modern open kitchen design;CHF 2,680.-;CHF 519 / m_ / year
+1.5 rooms ; 58 m_ ; Apartment;Gartenstrasse 6; 8002 Zürich;Stylish Art Nouveau style;Sunny balcony available;Prime location in Zurich Enge;CHF 2,930.-;CHF 606 / m_ / year
+3 rooms ; 63 m_ ; Apartment;Neugasse 41; 8005 Zürich;Central location;Balcony;Laminate & tile floors;CHF 2,970.-;CHF 566 / m_ / year
+4.5 rooms ; 110 m_ ; Apartment;Grabenwies 32; 8057 Zürich;Elegant oak parquet floors;Modern kitchen with induction;Direct lift access to garage;CHF 4,320.-;CHF 471 / m_ / year
+5.5 rooms ; 178 m_ ; Duplex;;8032 Zürich;Sunny living room with fireplace;Spacious kitchen for cooking;Quiet central location;CHF 6,570.-;CHF 443 / m_ / year
+3.5 rooms ; 80 m_ ; Furnished apartment;;8032 Zürich;Bright with modern elements;Two balconies for relaxation;Close to public transport;CHF 3,240.-;CHF 486 / m_ / year
+3.5 rooms ; 109 m_ ; Apartment;Hagenholzstrasse 70; 8050 Zürich;Spacious, bright rooms;Modern kitchen with dishwasher;Close to public transport;CHF 3,100.-;CHF 341 / m_ / year
+4.5 rooms ; 92 m_ ; Apartment;Trichtenhausenstrasse 129; 8053 Zürich;Bright open kitchen;Balcony for relaxation;Quiet residential area;CHF 2,270.-;CHF 296 / m_ / year
+2.5 rooms ; 57 m_ ; Apartment;Eugen-Huber-Strasse 111; 8048 Zürich;Bright open living spaces;Modern kitchen with dining;Balcony with great views;CHF 2,530.-;CHF 533 / m_ / year
+2 rooms ; 49 m_ ; Apartment;Hammerstrasse 61; 8032 Zürich;New parquet flooring;Open kitchen with dishwasher;Close to tram station;CHF 2,490.-;CHF 610 / m_ / year
+2.5 rooms ; 75 m_ ; Apartment;Buckhauserstrasse 49; 8048 Zürich;Modern kitchen & oak floors;Spacious loggia;Minergie certified;CHF 2,820.-;CHF 451 / m_ / year
+3.5 rooms ; 90 m_ ; Apartment;;8048 Zürich;Two sunny balconies;Lift access to 5th floor;Close to public transport;CHF 4,374.-;CHF 583 / m_ / year
+3.5 rooms ; 100 m_ ; Apartment;Hagenholzstrasse 72; 8050 Zürich;Spacious, bright rooms;Modern kitchen with dishwasher;Close to public transport;CHF 2,900.-;CHF 348 / m_ / year
+2.5 rooms ; 138 m_ ; Apartment;Freigutstrasse 20; 8002 Zürich;Bright open spaces;Modern kitchen with granite;Covered balcony retreat;CHF 4,306.-;CHF 374 / m_ / year
+3 rooms ; 102 m_ ; Attic flat;Pfirsichstrasse 7; 8006 Zürich;Smoked oak parquet floors;Two balconies with views;Modern open kitchen;CHF 4,200.-;CHF 494 / m_ / year
+2.5 rooms ; 73 m_ ; Penthouse;Triemlistrasse 153; 8047 Zürich;Stylish parquet flooring;Two sunny terraces;Modern kitchen amenities;CHF 3,390.-;CHF 557 / m_ / year
+2.5 rooms ; 50 m_ ; Apartment;;8004 Zürich;Two sunny balconies;Lift access to top floor;Central location near Helvetiaplatz;CHF 3,240.-;CHF 778 / m_ / year
+3 rooms ; 90 m_ ; Apartment;;8032 Zürich;2 min to tram station;Shared garden access;Includes utilities & internet;CHF 3,990.-;CHF 532 / m_ / year
+3 rooms ; 71 m_ ; Apartment;Schaffhauserstrasse 230; 8057 Zürich;Vinyl flooring throughout;Open kitchen with dishwasher;Close to tram and shops;CHF 2,630.-;CHF 445 / m_ / year
+3.5 rooms ; 109 m_ ; Apartment;Leutschenbachstrasse 50; 8050 Zürich;Stunning city views;Modern open kitchen;Eichenparkett flooring;CHF 3,922.-;CHF 432 / m_ / year
+3 rooms ; 102 m_ ; Apartment;Pfirsichstrasse 9; 8006 Zürich;Stylish oak parquet floors;Private balcony retreat;Smart home features included;CHF 4,800.-;CHF 565 / m_ / year
+3.5 rooms ; 75 m_ ; Apartment;Badenerstrasse 701; 8048 Zürich;Spacious modern kitchen;Elegant herringbone flooring;Direct garage access;CHF 3,320.-;CHF 531 / m_ / year
+2.5 rooms ; 63 m_ ; Apartment;;8008 Zürich;High-quality modern design;Central location with amenities;Elevator access for convenience;CHF 2,700.-;CHF 514 / m_ / year
+3.5 rooms ; 77 m_ ; Duplex;Röntgenstrasse 6; 8005 Zürich;Modern, light-filled design;Two balconies with views;Trendy neighborhood vibes;CHF 4,020.-;CHF 626 / m_ / year
+2.5 rooms ; 65 m_ ; Apartment;Sumatrastrasse 5; 8006 Zürich;Exclusive granite kitchen;Elegant oak parquet floors;Charming outdoor space;CHF 2,845.-;CHF 525 / m_ / year
