@@ -8,7 +8,9 @@ import numpy as np
 import os
 import matplotlib.pyplot as plt # For Diagrams
 import math
-
+from geopy.geocoders import Nominatim # For Amenities
+from geopy.distance import geodesic
+import streamlit.components.v1 as components
 
 #Variables that always exist and prevent crashes when reloading the page at the wrong time
 if "page" not in st.session_state:
