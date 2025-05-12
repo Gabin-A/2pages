@@ -8,9 +8,7 @@ import numpy as np
 import os
 import matplotlib.pyplot as plt # For Diagrams
 import math
-from geopy.geocoders import Nominatim # For Amenities
-from geopy.distance import geodesic
-import streamlit.components.v1 as components
+
 
 #Variables that always exist and prevent crashes when reloading the page at the wrong time
 if "page" not in st.session_state:
@@ -129,11 +127,6 @@ if st.session_state.page == "input":
         is_renovated = st.radio("Is the property new or recently renovated (last 5 years)?", ["Yes", "No"])
         parking = st.selectbox("Does the property include a parking space?", ["No", "Parking Outdoor", "Garage"])
 
-        st.header("🏬 Amenities")
-        amenity_options = ["Supermarket", "School", "Hospital", "Pharmacy", "Restaurant"]
-        amenities = [a for a in amenity_options if st.checkbox(a, key=f"chk_{a}")]
-        radius = st.slider("Search Radius in meters", 100, 3000, 500)
-
         submitted = st.form_submit_button("Estimate a Fair Rent")
 
         # Save data to session and go to result page
@@ -147,8 +140,6 @@ if st.session_state.page == "input":
         st.session_state.outdoor_space = outdoor_space
         st.session_state.is_renovated = is_renovated
         st.session_state.parking = parking
-        st.session_state.amenities = amenities
-        st.session_state.radius = radius
         st.session_state.page = "result"
         st.rerun()
 
@@ -194,12 +185,6 @@ if st.session_state.page == "result":
             parking = st.selectbox("Does the property include a parking space?", ["No", "Parking Outdoor", "Garage"],
                                 index=["No", "Parking Outdoor", "Garage"].index(st.session_state.parking))
 
-            st.header("🏬 Amenities")
-            amenity_options = ["Supermarket", "School", "Hospital", "Pharmacy", "Restaurant"]
-            amenities = [a for a in amenity_options if st.checkbox(a, key=f"chk_{a}", value=a in st.session_state.amenities)]
-
-            radius = st.slider("Search Radius in meters", min_value=100, max_value=3000, step=100, value=st.session_state.radius)
-
             submitted = st.form_submit_button("Estimate a Fair Rent")
 
         if submitted:
@@ -213,8 +198,6 @@ if st.session_state.page == "result":
             st.session_state.outdoor_space = outdoor_space
             st.session_state.is_renovated = is_renovated
             st.session_state.parking = parking
-            st.session_state.amenities = amenities
-            st.session_state.radius = radius
             st.session_state.page = "result"
             st.rerun()
     
@@ -266,47 +249,6 @@ if st.session_state.page == "result":
     with col2: # right side of the page 
 
         st.subheader("🏬 Distance to selected Amenities")
-
-        if lat and lon and st.session_state.amenities:
-            total_displayed = 0  # Counter to limit overall output
-            max_results = 7
-
-        for amenity in st.session_state.amenities:
-            if total_displayed >= max_results:
-                break  # Stop if max results shown, otherwise big gap between the results
-
-            query = f"""
-            [out:json];
-            (
-            node["amenity"="{amenity.lower()}"](around:{st.session_state.radius},{lat},{lon});
-            way["amenity"="{amenity.lower()}"](around:{st.session_state.radius},{lat},{lon});
-            relation["amenity"="{amenity.lower()}"](around:{st.session_state.radius},{lat},{lon});
-            );
-            out center;
-            """
-            try: # accesses the Overpass-API to measure the distance
-                response = requests.post("https://overpass-api.de/api/interpreter", data=query, timeout=30)
-                data = response.json().get("elements", [])
-                distances = []
-
-                for el in data:
-                    el_lat = el.get("lat") or el.get("center", {}).get("lat")
-                    el_lon = el.get("lon") or el.get("center", {}).get("lon")
-                    if el_lat and el_lon:
-                        dist = geodesic((lat, lon), (el_lat, el_lon)).meters # measures data in meters
-                        name = el.get("tags", {}).get("name", "Unnamed")
-                        distances.append((name, int(dist)))
-
-                distances = sorted(distances, key=lambda x: x[1])[:3]
-
-                for name, dist in distances:
-                    if total_displayed >= max_results:
-                        break
-                    st.write(f"🔹 {amenity.title()}: **{name}** — {dist} m")
-                    total_displayed += 1
-
-            except Exception as e:
-                st.error(f"Error retrieving {amenity.title()}: {e}")
 
     # Market price calculation with average price per m2 per year comparison
     selected_city = st.session_state.city
