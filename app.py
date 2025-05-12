@@ -128,8 +128,6 @@ if st.session_state.page == "input":
         st.session_state.outdoor_space = outdoor_space
         st.session_state.is_renovated = is_renovated
         st.session_state.parking = parking
-        st.session_state.amenities = amenities
-        st.session_state.radius = radius
         st.session_state.page = "result"
         st.rerun()
 
