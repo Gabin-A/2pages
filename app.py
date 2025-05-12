@@ -145,7 +145,6 @@ if st.session_state.page == "input":
         st.session_state.page = "result"
         st.rerun()
 
-
 # RESULT PAGE
 if st.session_state.page == "result":
 
@@ -202,7 +201,14 @@ if st.session_state.page == "result":
             st.session_state.parking = parking
             st.session_state.page = "result"
             st.rerun()
-    
+# analyse inputs from input page and prep for estimation
+    outdoor_flag = 0 if st.session_state.outdoor_space == "No" else 1
+    renovated_flag = 1 if st.session_state.is_renovated == "Yes" else 0
+    parking_flag = 0
+    if st.session_state.parking == "Parking Outdoor":
+        parking_flag = 1
+    elif st.session_state.parking == "Garage":
+        parking_flag = 2
     # Create input DataFrame for prediction
     features = pd.DataFrame([{
         "ZIP": float(st.session_state.zip_code) if st.session_state.zip_code else 0.0,
