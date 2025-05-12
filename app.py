@@ -203,68 +203,6 @@ if st.session_state.page == "result":
             st.session_state.page = "result"
             st.rerun()
     
-    col1, col2 = st.columns(2)
-
-    with col1:  # left side of the page
-        st.subheader("📍 Property Location & Nearby Amenities")
-
-        # Get location and show location
-        lat, lon = get_location(st.session_state.address, st.session_state.zip_code, st.session_state.city)
-
-        if lat and lon:
-            m = folium.Map(location=[lat, lon], zoom_start=15)
-            folium.Marker([
-                lat, lon
-            ], tooltip="Your Property", icon=folium.Icon(color="blue", icon="home", prefix='fa')).add_to(m)
-
-            # Display amenities
-            geolocator = Nominatim(user_agent='streamlit_app')
-            for amenity in st.session_state.amenities:
-                query = f"""
-                [out:json];
-                (
-                  node["amenity"="{amenity.lower()}"](around:{st.session_state.radius},{lat},{lon});
-                  way["amenity"="{amenity.lower()}"](around:{st.session_state.radius},{lat},{lon});
-                  relation["amenity"="{amenity.lower()}"](around:{st.session_state.radius},{lat},{lon});
-                );
-                out center;
-                """
-                response = requests.post("https://overpass-api.de/api/interpreter", data=query)
-                if response.ok:
-                    data = response.json().get('elements', [])
-                    for el in data[:3]:
-                        el_lat = el.get('lat') or el.get('center', {}).get('lat')
-                        el_lon = el.get('lon') or el.get('center', {}).get('lon')
-                        if el_lat and el_lon:
-                            dist = geodesic((lat, lon), (el_lat, el_lon)).meters
-                            name = el.get('tags', {}).get('name', f"{amenity.title()} (Unnamed)")
-                            folium.Marker(
-                                [el_lat, el_lon],
-                                tooltip=f"{name} — {dist:.0f} m",
-                                icon=folium.Icon(color='green', icon='info-sign')
-                            ).add_to(m)
-
-            st_folium(m, width=600, height=400)
-        else:
-            st.warning("Could not locate your address on the map.")
-
-    with col2: # right side of the page 
-
-        st.subheader("🏬 Distance to selected Amenities")
-
-    # Market price calculation with average price per m2 per year comparison
-    selected_city = st.session_state.city
-    market_price_m2_y = city_avg_p_sqm_y.get(selected_city)
-
-    # analyse inputs from input page and prep for estimation
-    outdoor_flag = 0 if st.session_state.outdoor_space == "No" else 1
-    renovated_flag = 1 if st.session_state.is_renovated == "Yes" else 0
-    parking_flag = 0
-    if st.session_state.parking == "Parking Outdoor":
-        parking_flag = 1
-    elif st.session_state.parking == "Garage":
-        parking_flag = 2
-
     # Create input DataFrame for prediction
     features = pd.DataFrame([{
         "ZIP": float(st.session_state.zip_code) if st.session_state.zip_code else 0.0,
