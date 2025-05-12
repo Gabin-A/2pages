@@ -279,8 +279,8 @@ if st.session_state.page == "result":
     upper_bound = int(estimated_price * 1.1)
 
     st.title("💰 Estimated Price Range")
-    st.write(f"CHF {lower_bound:,} - CHF {upper_bound:,}")
-    st.write(f" ➡️ Estimated Price: **CHF {int(estimated_price):,}**")
+    st.subheader(f"CHF {lower_bound:,} - CHF {upper_bound:,}")
+    st.subheader(f" ➡️ Estimated Price: **CHF {int(estimated_price):,}**")
 
     # Option for new entry, goes back to input page
     if st.button("Estimate Another Property"):
