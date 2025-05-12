@@ -215,7 +215,11 @@ if st.session_state.page == "result":
 
     estimated_price = model.predict(features)[0]
     st.session_state.estimated_price = estimated_price # Saves the estimated price
-
+  
+    st.subheader("💰 Estimated Price Range")
+    st.write(f"CHF {lower_bound:,} - CHF {upper_bound:,}")
+    st.write(f" ➡️ Estimated Price: **CHF {int(estimated_price):,}**")
+    
     col1, col2 = st.columns(2)
 
     with col1: # left side display below the Map
@@ -276,11 +280,6 @@ if st.session_state.page == "result":
         
     lower_bound = int(estimated_price * 0.9)
     upper_bound = int(estimated_price * 1.1)
-
-    st.subheader("💰 Estimated Price Range")
-    st.write(f"CHF {lower_bound:,} - CHF {upper_bound:,}")
-    st.write(f" ➡️ Estimated Price: **CHF {int(estimated_price):,}**")
-
 
     # Option for new entry, goes back to input page
     if st.button("Estimate Another Property"):
