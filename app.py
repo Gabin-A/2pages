@@ -46,20 +46,6 @@ def load_model():
 model = load_model()
 model_pipeline = joblib.load("price_estimator.pkl")
 
-# OpenStreetMap API
-# gets latitude and longitude from address input
-@st.cache_data
-def get_location(address, zip_code, city, country='CH'):
-    query = f"{address}, {zip_code} {city}, {country}"
-    url = f"https://nominatim.openstreetmap.org/search?q={query}&format=json"
-    response = requests.get(url, headers={'User-Agent': 'real-estate-app'})
-    if response.status_code != 200:
-        return None, None
-    data = response.json()
-    if data:
-        return float(data[0]['lat']), float(data[0]['lon'])
-    return None, None
-
 # Get average price per m2 per year from training csv files
 city_files = {
     "Geneva": "geneve.csv",
@@ -142,8 +128,11 @@ if st.session_state.page == "input":
         st.session_state.outdoor_space = outdoor_space
         st.session_state.is_renovated = is_renovated
         st.session_state.parking = parking
+        st.session_state.amenities = amenities
+        st.session_state.radius = radius
         st.session_state.page = "result"
         st.rerun()
+
 
 # RESULT PAGE
 if st.session_state.page == "result":
@@ -201,7 +190,12 @@ if st.session_state.page == "result":
             st.session_state.parking = parking
             st.session_state.page = "result"
             st.rerun()
-# analyse inputs from input page and prep for estimation
+    
+    # Market price calculation with average price per m2 per year comparison
+    selected_city = st.session_state.city
+    market_price_m2_y = city_avg_p_sqm_y.get(selected_city)
+
+    # analyse inputs from input page and prep for estimation
     outdoor_flag = 0 if st.session_state.outdoor_space == "No" else 1
     renovated_flag = 1 if st.session_state.is_renovated == "Yes" else 0
     parking_flag = 0
@@ -209,6 +203,7 @@ if st.session_state.page == "result":
         parking_flag = 1
     elif st.session_state.parking == "Garage":
         parking_flag = 2
+
     # Create input DataFrame for prediction
     features = pd.DataFrame([{
         "ZIP": float(st.session_state.zip_code) if st.session_state.zip_code else 0.0,
